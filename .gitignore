@@ -1,0 +1,28 @@
+# Image file caches
+Thumbs.db
+ehthumbs.db
+# Folder config file
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# OS X
+# Folder Customizations
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Image Editors
+# Layered Documents
+*.psd
+*.xcf
+
+# Artifacts left by other applications
+# SyncToy
+SyncToy*
