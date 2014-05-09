@@ -1,4 +1,4 @@
-# Soartex Modded Textures 1.6.x
+# Soartex Modded Textures 1.7.x
 
 ### Created by everyone for everyone!
 
