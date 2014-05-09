@@ -1,0 +1,6 @@
+fiery_1.png
+fiery_2.png
+naga_scale_1.png
+naga_scale_2.png
+steeleaf_1.png
+steeleaf_2.png
