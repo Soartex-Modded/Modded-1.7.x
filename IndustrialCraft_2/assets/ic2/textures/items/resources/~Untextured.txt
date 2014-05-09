@@ -1,0 +1,6 @@
+itemcrystalmemory
+itemPartCoil
+itemPartEleMotor
+itempowerunit
+itempowerunitsmall
+itemrawcrystalmemory
