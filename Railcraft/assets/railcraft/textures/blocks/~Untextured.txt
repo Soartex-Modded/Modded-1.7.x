@@ -1,0 +1,5 @@
+signal.box.block.relay.png
+signal.box.capacitor.png
+signal.box.controller.png
+signal.box.png
+signal.box.receiver.png

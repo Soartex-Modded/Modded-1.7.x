@@ -1,0 +1,12 @@
+armor.overalls.png
+borehead.diamond.png
+borehead.iron.png
+borehead.steel.png
+cart.bore.png
+cart.gift.png
+cart.loco.steam.primary.png
+cart.loco.steam.secondary.png
+tool.mag.glass.png
+tool.signal.tuner.png
+tool.surveyor.png
+tool.whistle.tuner.png

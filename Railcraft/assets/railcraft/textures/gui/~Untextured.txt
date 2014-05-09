@@ -1,0 +1,3 @@
+gui_craft_guide.png
+routing_table.png
+ticket_gold.png
