@@ -1,0 +1,5 @@
+larvae.body.png
+larvae.body2.png
+larvae.outline.png
+
+These are actually animated textures.
