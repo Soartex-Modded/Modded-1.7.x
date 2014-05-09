@@ -1,0 +1,3 @@
+portalModule_6
+handheldScanner.png
+synchronizer.png
