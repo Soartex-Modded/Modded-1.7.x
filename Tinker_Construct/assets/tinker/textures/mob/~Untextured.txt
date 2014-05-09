@@ -1,0 +1,8 @@
+armorstandtexture
+crystalguardamber
+crystalGuardMorganite
+crystalGuardTurquoise
+crystalwater
+googirl
+googirl_blue
+skyla

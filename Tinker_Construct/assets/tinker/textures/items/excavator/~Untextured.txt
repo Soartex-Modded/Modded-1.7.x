@@ -1,0 +1,9 @@
+beheading_excavator_effect.png
+blaze_excavator_effect.png
+emerald_excavator_effect.png
+diamond_excavator_effect.png
+flux_excavator_effect.png
+ice_excavator_effect.png
+lava_excavator_effect.png
+piston_excavator_effect.png
+smite_excavator_effect.png
