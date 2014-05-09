@@ -1,0 +1,5 @@
+armor_imp_body.png
+armor_imp_boots.png
+armor_imp_helmet.png
+armor_imp_leggings.png
+cotton_plant.png

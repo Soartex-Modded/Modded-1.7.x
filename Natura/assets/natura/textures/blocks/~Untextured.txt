@@ -1,0 +1,3 @@
+tiger_door_bottom.png
+tiger_door_top.png
+purpleheart_trapdoor.png
