@@ -1,0 +1,8 @@
+DesichalkosBoots.png
+DesichalkosChest.png
+DesichalkosHelmet.png
+DesichalkosLegs.png
+EximiteBoots.png
+EximiteChest.png
+EximiteHelmet.png
+EximiteLegs.png
