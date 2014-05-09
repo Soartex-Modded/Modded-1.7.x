@@ -1,0 +1,8 @@
+amethyst_1
+amethyst_2
+dullflowerband
+exoticflowerband
+lushflowerband
+mud_1
+mud_2
+plainflowerband
