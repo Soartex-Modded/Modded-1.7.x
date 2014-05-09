@@ -1,0 +1,7 @@
+-enderclam0.png
+-enderclam1.png
+-enderclam2.png
+-enderclam3.png
+-remains.png
+-rottenplant0.png
+-rottenplant1.png
