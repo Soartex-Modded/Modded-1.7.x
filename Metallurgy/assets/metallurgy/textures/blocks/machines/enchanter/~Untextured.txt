@@ -1,0 +1,3 @@
+enchantment_bottom.png
+enchantment_side.png
+enchantment_top.png

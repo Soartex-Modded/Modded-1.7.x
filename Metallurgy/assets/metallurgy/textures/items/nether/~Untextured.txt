@@ -1,0 +1,44 @@
+AmordrineBoots.png
+AmordrineChest.png
+AmordrineHelmet.png
+AmordrineLegs.png
+CeruclaseBoots.png
+CeruclaseChest.png
+CeruclaseHelmet.png
+CeruclaseLegs.png
+IgnatiusBoots.png
+IgnatiusChest.png
+IgnatiusHelmet.png
+IgnatiusLegs.png
+InolashiteBoots.png
+InolashiteChest.png
+InolashiteHelmet.png
+InolashiteLegs.png
+KalendriteBoots.png
+KalendriteChest.png
+KalendriteHelmet.png
+KalendriteLegs.png
+MidasiumBoots.png
+MidasiumDust.png
+MidasiumHelmet.png
+MidasiumLegs.png
+SanguiniteBoots.png
+SanguiniteChest.png
+SanguiniteHelmet.png
+SanguiniteLegs.png
+Shadow IronBoots.png
+Shadow IronChest.png
+Shadow IronHelmet.png
+Shadow IronLegs.png
+Shadow SteelBoots.png
+Shadow SteelChest.png
+Shadow SteelHelmet.png
+Shadow SteelLegs.png
+VulcaniteBoots.png
+VulcaniteChest.png
+VulcaniteHelmet.png
+VulcaniteLegs.png
+VyroxeresBoots.png
+VyroxeresChest.png
+VyroxeresHelmet.png
+VyroxeresLegs.png
