@@ -1,2 +1,0 @@
-beam.png
-Laser.png
