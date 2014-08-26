@@ -1,0 +1,8 @@
+Mod link: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2111959-1-7-x-elemental-creepers-rebooted
+
+cakecreeper.png
+endercreeper.png
+fireworkcreeper.png
+hydrogencreeper.png
+rfcreeper.png
+spidercreeper.png
