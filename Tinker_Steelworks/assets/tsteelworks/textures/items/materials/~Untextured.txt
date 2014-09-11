@@ -1,0 +1,3 @@
+bucket_cement.png
+bucket_limestone.png
+bucket_steam.png

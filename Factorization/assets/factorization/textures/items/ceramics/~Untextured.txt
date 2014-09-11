@@ -1,0 +1,12 @@
+ROTATE.png
+TEMPLATE.png
+delete.png
+glaze_bucket.png
+mold.png
+move.png
+reset.png
+rotate2.png
+rotate_global.png
+rotate_local.png
+select.png
+stretch.png
