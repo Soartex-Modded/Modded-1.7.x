@@ -1,0 +1,11 @@
+barrel_upgrade
+diamond_cutting_head
+diamond_shard
+heat_hole
+insulated_coil
+logic_matrix
+logic_matrix_identifer
+logic_matrix_TEMPLATE
+motor
+nether_powder
+TINY_MACHINE

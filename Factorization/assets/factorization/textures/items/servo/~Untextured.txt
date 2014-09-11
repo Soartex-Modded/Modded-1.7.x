@@ -1,0 +1,8 @@
+plate
+plate_side_left
+plate_side_red
+plate_side_right
+plate_side_silver
+servo
+servo_motor
+sprocket
