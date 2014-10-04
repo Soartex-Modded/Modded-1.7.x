@@ -1,4 +1,3 @@
-armorstandtexture
 crystalguardamber
 crystalGuardMorganite
 crystalGuardTurquoise
