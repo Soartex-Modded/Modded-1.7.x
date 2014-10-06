@@ -8,6 +8,9 @@ with scripts and made available in the patcher and on the downloads page!
 - [Forums](http://soartex.net/community/)
 - [Downloads](http://soartex.net/downloads/)
 
+[![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.7.x/badge/pr?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.7.x)
+[![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.7.x/badge/issue?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.7.x)
+
 ### Goals
 * Relaxed, fun, community learning and texturing environment
 * Support for mod packs in the FTB, Technic and ATLauncher platforms
