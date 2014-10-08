@@ -1,0 +1,5 @@
+guide_cover_left.png
+guide_cover_right.png
+guide_elements.png
+guide_page_left.png
+guide_page_right.png
