@@ -1,0 +1,9 @@
+drone.body2.png
+drone.outline.png
+larvae.body.png
+larvae.body2.png
+larvae.outline.png
+princess.body2.png
+princess.outline.png
+queen.body2.png
+queen.outline.png
