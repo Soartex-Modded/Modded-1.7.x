@@ -1,0 +1,10 @@
+body1
+drone.body2
+drone.outline
+larvae.body
+larvae.body2
+larvae.outline
+princess.body2
+princess.outline
+queen.body2
+queen.outline
