@@ -1,0 +1,4 @@
+hqmQuestPortalTech
+hqmQuestPortalTechSide
+hqmQuestPortalTechTop
+hqmQuestPortalTransparent

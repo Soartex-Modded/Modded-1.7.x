@@ -1,0 +1,11 @@
+brewery_base
+brewery_tank_product_empty
+brewery_tank_resource_empty
+distillery_base
+distillery_tank_product_empty
+distillery_tank_resource_empty
+Nursery
+NurseryOccupied
+press_base
+press_tank_product_empty
+press_tank_resource_empty
