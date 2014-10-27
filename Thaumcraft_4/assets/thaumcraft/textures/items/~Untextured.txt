@@ -32,9 +32,6 @@ focus_reversal
 focus_shock
 focus_trade
 focus_trade_orn
-focus_warding
-focus_warding_depth
-focus_warding_orn
 focus_whatever_orn
 focuspouch
 golem_core_blank
