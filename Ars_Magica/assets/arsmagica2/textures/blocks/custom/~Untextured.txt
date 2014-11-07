@@ -1,0 +1,17 @@
+blockAstralBarrier.png
+blockCrystalPillar.png
+blockSeerStone.png
+bookOfPower.png
+bookTex.png
+essenceConduit.png
+essenceConduitUnpowered.png
+eye_bw.png
+eye_color.png
+InscriptionTable.png
+mageLight.png
+magic_circle.png
+Magic_Fabricator_2.png
+Magic_Fabricator_3.png
+magic_mirror.png
+MagicResearchTable.png
+pure_vinteum_crystal.png
