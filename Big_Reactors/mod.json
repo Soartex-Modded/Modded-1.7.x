@@ -1,9 +1,9 @@
 {
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "",
-  "mc_version": "",
-  "mod_author": "",
-  "url_website": "",
+  "mod_name": "Big Reactors",
+  "mod_dir": "/Big_Reactors/",
+  "mod_version": "v0.4.0rc11",
+  "mc_version": "1.7.10",
+  "mod_authors": ["ErogenousBeef"],
+  "url_website": "http://www.big-reactors.com/",
   "description": ""
 }
