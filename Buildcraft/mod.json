@@ -1,9 +1,9 @@
 {
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "",
-  "mc_version": "",
-  "mod_author": "",
-  "url_website": "",
+  "mod_name": "Buildcraft",
+  "mod_dir": "/Buildcraft/",
+  "mod_version": "v6.1.7",
+  "mc_version": "1.7.10",
+  "mod_authors": ["SpaceToad", "BuildCraft Team"],
+  "url_website": "http://www.mod-buildcraft.com/",
   "description": ""
 }
