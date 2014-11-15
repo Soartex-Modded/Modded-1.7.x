@@ -1,7 +1,6 @@
 banner_cultist
 bellows
 bore
-centrifuge
 crystalizer
 cultist
 cultist_plate_armor
