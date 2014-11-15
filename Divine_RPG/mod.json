@@ -1,9 +1,9 @@
 {
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "",
-  "mc_version": "",
-  "mod_author": "",
-  "url_website": "",
+  "mod_name": "Divine RPG",
+  "mod_dir": "/Divine_RPG/",
+  "mod_version": "v1.4.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["XolovA", "The_Slayer", "SoccerStud", "BossLetsPlays", "TLHPoE", "Mazetar", "DeclanUK"],
+  "url_website": "http://divinerpg.net",
   "description": ""
 }

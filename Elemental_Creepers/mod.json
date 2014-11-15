@@ -1,9 +1,9 @@
 {
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "",
-  "mc_version": "",
-  "mod_author": "",
-  "url_website": "",
+  "mod_name": "Elemental Creepers",
+  "mod_dir": "/Elemental_Creepers/",
+  "mod_version": "v4.2.4",
+  "mc_version": "1.7.10",
+  "mod_authors": ["xSmallDeadGuyx", "Lomeli12"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2111959-1-7-x-elemental-creepers-rebooted",
   "description": ""
 }

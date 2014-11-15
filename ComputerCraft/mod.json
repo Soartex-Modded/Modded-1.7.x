@@ -1,9 +1,9 @@
 {
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "",
-  "mc_version": "",
-  "mod_author": "",
-  "url_website": "",
+  "mod_name": "ComputerCraft",
+  "mod_dir": "/ComputerCraft/",
+  "mod_version": "v1.65",
+  "mc_version": "1.7.10",
+  "mod_authors": ["dan200"],
+  "url_website": "http://www.computercraft.info/",
   "description": ""
 }
