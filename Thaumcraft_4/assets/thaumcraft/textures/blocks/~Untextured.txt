@@ -17,15 +17,7 @@ mirrorframe
 mirrorpane
 mirrorpaneopen
 mirrorpanetrans
-pipe_1
-pipe_2
-pipe_3
-pipe_buffer
-pipe_filter
 pipe_filter_core
-pipe_oneway
-pipe_restrict
-pipe_valve
 purifier_leaves
 purifier_seed
 purifier_stalk
