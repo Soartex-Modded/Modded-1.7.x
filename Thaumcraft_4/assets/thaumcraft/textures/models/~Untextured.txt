@@ -2,10 +2,6 @@ banner_cultist
 bellows
 bore
 crystalizer
-cultist
-cultist_plate_armor
-cultist_robe_armor
-cultistboots
 eldritch_guardian
 fortress_armor
 hoverharness
