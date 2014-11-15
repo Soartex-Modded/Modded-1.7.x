@@ -1,9 +1,9 @@
 {
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "",
-  "mc_version": "",
-  "mod_author": "",
-  "url_website": "",
+  "mod_name": "Forge Multipart",
+  "mod_dir": "/Forge_Multipart/",
+  "mod_version": "n/a",
+  "mc_version": "1.7.10",
+  "mod_authors": ["chicken_bones"],
+  "url_website": "https://github.com/Chicken-Bones/ForgeMultipart",
   "description": ""
 }

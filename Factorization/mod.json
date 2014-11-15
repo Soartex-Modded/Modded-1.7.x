@@ -1,9 +1,9 @@
 {
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "",
-  "mc_version": "",
-  "mod_author": "",
-  "url_website": "",
+  "mod_name": "Factorization",
+  "mod_dir": "/Factorization/",
+  "mod_version": "v0.8.88.6",
+  "mc_version": "1.7.10",
+  "mod_authors": ["neptunepink"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284592-factorization-0-8-88-6",
   "description": ""
 }
