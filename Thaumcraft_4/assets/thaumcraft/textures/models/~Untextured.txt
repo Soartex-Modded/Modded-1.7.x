@@ -8,11 +8,9 @@ hoverharness
 hoverharness2
 jarbrine
 label
-obelisk_side
 pech_forage
 pech_stalker
 pech_thaum
-reservoir
 restable2
 robes_1
 robes_1_overlay
