@@ -16,7 +16,6 @@ cultistrobechest
 cultistrobehelm
 cultistrobelegs
 dust
-eldritch_object
 filter
 focus
 focus_excavation
