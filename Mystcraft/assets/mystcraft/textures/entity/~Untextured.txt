@@ -1,0 +1,3 @@
+bookbinder.png
+inkwell.png
+linkbookmodifier.png
