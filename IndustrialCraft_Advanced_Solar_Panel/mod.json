@@ -1,0 +1,9 @@
+{
+  "mod_name": "Advanced Solar Panel",
+  "mod_dir": "/IndustrialCraft_Advanced_Solar_Panel/",
+  "mod_version": "v3.5.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["SeNtiMeL"],
+  "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291",
+  "description": "Adds advanced solar panels for mass power production."
+}
