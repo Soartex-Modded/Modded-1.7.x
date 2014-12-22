@@ -1,9 +1,0 @@
-beheading_dagger_effect.png
-blaze_dagger_effect.png
-emerald_dagger_effect.png
-diamond_dagger_effect.png
-flux_dagger_effect.png
-ice_dagger_effect.png
-lava_dagger_effect.png
-piston_dagger_effect.png
-smite_dagger_effect.png

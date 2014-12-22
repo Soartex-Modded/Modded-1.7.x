@@ -1,9 +1,0 @@
-beheading_hammer_effect.png
-blaze_hammer_effect.png
-emerald_hammer_effect.png
-diamond_hammer_effect.png
-flux_hammer_effect.png
-ice_hammer_effect.png
-lava_hammer_effect.png
-piston_hammer_effect.png
-smite_hammer_effect.png

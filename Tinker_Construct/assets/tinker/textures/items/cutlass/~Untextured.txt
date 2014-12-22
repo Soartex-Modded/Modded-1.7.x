@@ -1,3 +1,0 @@
-beheading_cutlass_effect.png
-blaze_cutlass_effect.png
-flux_cutlass_effect.png

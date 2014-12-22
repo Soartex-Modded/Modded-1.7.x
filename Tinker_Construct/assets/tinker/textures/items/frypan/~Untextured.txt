@@ -1,8 +1,0 @@
-beheading_frypan_effect.png
-emerald_frypan_effect.png
-diamond_frypan_effect.png
-flux_frypan_effect.png
-ice_frypan_effect.png
-lava_frypan_effect.png
-piston_frypan_effect.png
-smite_frypan_effect.png
