@@ -1,9 +1,10 @@
 {
+  "mod_id": "HardcoreEnderExpansion",
   "mod_name": "Hardcore Ender Expansion",
   "mod_dir": "/Hardcore_Ender_Expansion/",
-  "mod_version": "v1.6.5",
+  "mod_version": "v1.6.6",
   "mc_version": "1.7.10",
   "mod_authors": ["chylex"],
   "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-5-170-000-dls",
-  "description": ""
+  "description": "Hardcore Ender Expansion offers unique, new content across the End. The dragon became a truly challenging boss with a great reward, but the adventure doesn't end there."
 }

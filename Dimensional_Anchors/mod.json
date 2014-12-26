@@ -1,9 +1,10 @@
 {
+  "mod_id": "DimensionalAnchors",
   "mod_name": "Dimensional Anchors",
   "mod_dir": "/Dimensional_Anchors/",
   "mod_version": "v59.0.2",
   "mc_version": "1.7.10",
   "mod_authors": ["Immibis"],
   "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers",
-  "description": ""
+  "description": "Yet another chunk-loader mod."
 }

@@ -1,9 +1,10 @@
 {
+  "mod_id": "ForbiddenMagic",
   "mod_name": "Forbidden Magic",
   "mod_dir": "/Forbidden_Magic/",
-  "mod_version": "v0.53-pre",
+  "mod_version": "v0.551",
   "mc_version": "1.7.10",
   "mod_authors": ["SpitefulFox"],
   "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-53-prerelease",
-  "description": ""
+  "description": "Forbidden Magic is an addon to add many dark-themed things to Thaumcraft."
 }

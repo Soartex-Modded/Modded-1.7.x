@@ -1,9 +1,10 @@
 {
+  "mod_id": "Eln",
   "mod_name": "Electrical Age",
   "mod_dir": "/Electrical_Age/",
   "mod_version": "v1.9",
   "mc_version": "v1.7.10",
   "mod_authors": ["dolu1990", "lambdaShade", "cm0x4D", "lambdaShade"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2104648-electrical-age-physics-electric-circuits-more",
+  "url_website": "http://electrical-age.net/",
   "description": ""
 }

@@ -1,0 +1,10 @@
+{
+  "mod_id": "inventorytweaks",
+  "mod_name": "Inventory Tweaks",
+  "mod_dir": "/Inventory_Tweaks/",
+  "mod_version": "v1.59",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Kobata", "Jimeo Wan"],
+  "url_website": "https://github.com/Kobata/inventory-tweak",
+  "description": "Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items."
+}

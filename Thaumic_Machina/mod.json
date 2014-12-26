@@ -1,7 +1,8 @@
 {
+  "mod_id": "ThaumicMachina",
   "mod_name": "Thaumic Machina",
   "mod_dir": "/Thaumic_Machina/",
-  "mod_version": "1.7.10-0.1.0 (Open-Beta)",
+  "mod_version": "v0.1.0",
   "mc_version": "1.7.10",
   "mod_authors": ["jcm2606", "HuggableCreep"],
   "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2200956-wip-1-7-10-open-beta-thaumcraft-4-2-addon-thaumic",

@@ -1,9 +1,10 @@
 {
+  "mod_id": "Botania",
   "mod_name": "Botania",
   "mod_dir": "/Botania/",
-  "mod_version": "r1.2-132",
+  "mod_version": "r1.3-143",
   "mc_version": "1.7.2",
   "mod_authors": ["Vazkii"],
   "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294116-botania-an-innovative-natural-magic-themed-tech",
-  "description": ""
+  "description": "Botania is a mod that adds nature magic to Minecraft."
 }
