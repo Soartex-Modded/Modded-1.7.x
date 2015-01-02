@@ -1,0 +1,10 @@
+{
+  "mod_id": "compactmachines",
+  "mod_name": "Compact Machines",
+  "mod_dir": "/Compact_Machines/",
+  "mod_version": "1.13",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Davenonymous"],
+  "url_website": "http://http://minecraft.curseforge.com/mc-mods/224218-compact-machines",
+  "description": "Adds one simple game mechanic: Small rooms inside of blocks. It basically gives you the ability to build your contraptions inside of a single block."
+}
