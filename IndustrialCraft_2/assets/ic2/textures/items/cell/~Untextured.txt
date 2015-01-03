@@ -1,8 +1,1 @@
-itemCellBiogas.png
-itemCellBiomass.png
-itemCellCoolant.png
-itemCellDistilledWater.png
-itemCellHotCoolant.png
 itemCellPahoehoelava.png
-itemCellSteam.png
-itemCellSuperheatedSteam.png
