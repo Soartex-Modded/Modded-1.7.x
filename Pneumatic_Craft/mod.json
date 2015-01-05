@@ -1,10 +1,10 @@
 {
-  "mod_id": "",
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "v",
+  "mod_id": "PneumaticCraft",
+  "mod_name": "PneumaticCraft",
+  "mod_dir": "/Pneumatic_Craft/",
+  "mod_version": "v1.4.4-47",
   "mc_version": "1.7.10",
-  "mod_authors": [""],
-  "url_website": "",
-  "description": ""
+  "mod_authors": ["MineMaarten"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/",
+  "description": "A technical mod all about pneumatics!"
 }

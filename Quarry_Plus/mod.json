@@ -1,10 +1,10 @@
 {
-  "mod_id": "",
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "v",
+  "mod_id": "QuarryPlus",
+  "mod_name": "QuarryPlus",
+  "mod_dir": "/Quarry_Plus/",
+  "mod_version": "v2.0.1",
   "mc_version": "1.7.10",
-  "mod_authors": [""],
-  "url_website": "",
-  "description": ""
+  "mod_authors": ["yogpstop"],
+  "url_website": "https://github.com/yogpstop/QuarryPlus/",
+  "description": "This mod add advanced quarry and more."
 }

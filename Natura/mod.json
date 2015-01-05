@@ -1,10 +1,10 @@
 {
-  "mod_id": "",
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "v",
+  "mod_id": "Natura",
+  "mod_name": "Natura",
+  "mod_dir": "/Natura/",
+  "mod_version": "v2.2.0",
   "mc_version": "1.7.10",
-  "mod_authors": [""],
-  "url_website": "",
-  "description": ""
+  "mod_authors": ["mDiyo", "Slime Knights"],
+  "url_website": "http://www.minecraftforum.net/topic/1753754-natura/",
+  "description": "Heyo, Redwood trees! Chop them all day long!"
 }

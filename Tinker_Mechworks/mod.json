@@ -1,10 +1,10 @@
 {
-  "mod_id": "",
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "v",
+  "mod_id": "TMechworks",
+  "mod_name": "Tinkers' Mechworks",
+  "mod_dir": "/Tinker_Mechworks/",
+  "mod_version": "v0.2.9",
   "mc_version": "1.7.10",
-  "mod_authors": [""],
-  "url_website": "",
-  "description": ""
+  "mod_authors": ["mDiyo", "fuj1n", "ProgWML6", "Sunstrike", "Pillbox"],
+  "url_website": "http://minecraft.curseforge.com/mc-mods/78057-tinkers-mechworks/",
+  "description": "Mechworks is an add-on for Tinkers' Construct with some interesting mechanical tidbits."
 }

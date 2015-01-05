@@ -1,10 +1,10 @@
 {
-  "mod_id": "",
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "v",
+  "mod_id": "jotatosPracticalities",
+  "mod_name": "Practicalities",
+  "mod_dir": "/Practicalities/",
+  "mod_version": "v0.5.0",
   "mc_version": "1.7.10",
-  "mod_authors": [""],
-  "url_website": "",
-  "description": ""
+  "mod_authors": ["Jotato"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2181911-practicalities-0-5-0",
+  "description": "Awesome things to make stuff better."
 }

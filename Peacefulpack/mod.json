@@ -1,10 +1,10 @@
 {
-  "mod_id": "",
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "v",
+  "mod_id": "peacefulpack",
+  "mod_name": "The Peacefulpack",
+  "mod_dir": "/Peacefulpack/",
+  "mod_version": "v1.1.8.5",
   "mc_version": "1.7.10",
-  "mod_authors": [""],
-  "url_website": "",
-  "description": ""
+  "mod_authors": ["Wuppy29"],
+  "url_website": "http://www.minecraftforum.net/topic/1094417-",
+  "description": "The Peacefulpack makes Minecraft easier to play by adding new ores, items crops and more. These new things can be used to get all the mob drops without fighting."
 }

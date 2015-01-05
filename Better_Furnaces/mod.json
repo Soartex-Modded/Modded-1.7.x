@@ -1,0 +1,10 @@
+{
+  "mod_id": "FLabsBF",
+  "mod_name": "Better Furnaces",
+  "mod_dir": "/Better_Furnaces/",
+  "mod_version": "v4.1.2",
+  "mc_version": "1.7.10",
+  "mod_authors": ["TheFrogMC"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279439-better-furnaces-mod",
+  "description": "A mod to make smelting stuff faster, or more convenient in other ways."
+}

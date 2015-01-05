@@ -1,10 +1,10 @@
 {
-  "mod_id": "",
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "v",
+  "mod_id": "RotaryCraft",
+  "mod_name": "RotaryCraft",
+  "mod_dir": "/RotaryCraft/",
+  "mod_version": "Unknown",
   "mc_version": "1.7.10",
-  "mod_authors": [""],
-  "url_website": "",
-  "description": ""
+  "mod_authors": ["Reika"],
+  "url_website": "https://sites.google.com/site/reikasminecraft/rotarycraft/",
+  "description": "RotaryCraft is a large "industrial-style" mod, akin to the likes of BuildCraft, IndustrialCraft, ThermalExpansion, and Minefactory Reloaded."
 }
