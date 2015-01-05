@@ -1,0 +1,5 @@
+tile.mfr.cable.plastic
+tile.mfr.farmland
+tile.mfr.plastic
+tile.mfr.vinescaffold.side
+tile.mfr.vinescaffold.top
