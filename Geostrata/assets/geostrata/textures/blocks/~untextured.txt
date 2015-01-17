@@ -1,0 +1,302 @@
+basalt.png
+emeraldbricks.png
+glowbricks.png
+gneiss.png
+granite.png
+granulite.png
+hornfel.png
+lapisbricks.png
+limestone.png
+marble.png
+migmatite.png
+obsidibricks.png
+onyx.png
+opal.png
+peridotite.png
+pumice.png
+quartz.png
+quartzbricks.png (nether quartz)
+redbrick.png
+sandstone.png
+schist.png
+shale.png
+slate.png
+
+/connected2
+0.png
+1.png
+1_sec.png
+2.png
+2_sec.png
+3.png
+3_sec.png
+4.png
+4_sec.png
+5.png
+5_sec.png
+6.png
+6_sec.png
+7.png
+7_sec.png
+8.png
+8_sec.png
+9.png
+9_sec.png
+
+/ore
+basalt.png
+gneiss.png
+granite.png
+granulite.png
+hornfel.png
+limestone.png
+marble.png
+migmatitie.png
+onyz.png
+opal.png
+peridotite.png
+pumice.png
+quartz.png
+sandstone.png
+schist.png
+shale.png
+slate.png
+
+/shaped/unstitiched
+tile1_0.png (Granite Cobble)
+tile1_1.png (Basalt Cobble)
+tile1_2.png (Marble Cobble) 
+tile1_3.png (Limestone Cobble) 
+tile1_4.png (Shale Cobble) 
+tile1_5.png (Sandstone Cobble) 
+tile1_6.png (Pumice Cobble) 
+tile1_7.png (Slate Cobble) 
+tile1_8.png (Gneiss Cobble) 
+tile1_9.png (Peridotite Cobble) 
+tile1_10.png (Quartz Cobble) 
+tile1_11.png (Granulite Cobble) 
+tile1_12.png (Hornfel Cobble) 
+tile1_13.png (Migmatite Cobble) 
+tile1_14.png (Schist Cobble) 
+tile1_15.png (Onyx Cobble)
+tile1_16.png (Opal Cobble)
+tile2_0.png (Granite Brick)
+tile2_1.png (Basalt Brick)
+tile2_2.png (Marble Brick) 
+tile2_3.png (Limestone Brick) 
+tile2_4.png (Shale Brick)
+tile2_5.png (Sandstone Brick) 
+tile2_6.png (Pumice Brick)
+tile2_7.png (Slate Brick) 
+tile2_8.png (Gneiss Brick) 
+tile2_9.png (Peridotite Brick) 
+tile2_10.png (Quartz Brick)
+tile2_11.png (Granulite Brick) 
+tile2_12.png (Hornfel Brick)
+tile2_13.png (Migmatite Brick) 
+tile2_14.png (Schist Brick)
+tile2_15.png (Onyx Brick)
+tile2_16.png (Opal Brick)
+tile3_0.png (Granite Round)
+tile3_1.png (Basalt Round)
+tile3_2.png (Marble Round) 
+tile3_3.png (Limestone Round) 
+tile3_4.png (Shale Round)
+tile3_5.png (Sandstone Round) 
+tile3_6.png (Pumice Round)
+tile3_7.png (Slate Round) 
+tile3_8.png (Gneiss Round) 
+tile3_9.png (Peridotite Round) 
+tile3_10.png (Quartz Round)
+tile3_11.png (Granulite Round) 
+tile3_12.png (Hornfel Round)
+tile3_13.png (Migmatite Round)  
+tile3_14.png (Schist Round)
+tile3_15.png (Onyx Round)
+tile3_16.png (Opal Round)
+tile4_0.png (Granite Fitted)
+tile4_1.png (Basalt Fitted)
+tile4_2.png (Marble Fitted) 
+tile4_3.png (Limestone Fitted) 
+tile4_4.png (Shale Fitted)
+tile4_5.png (Sandstone Fitted) 
+tile4_6.png (Pumice Fitted)
+tile4_7.png (Slate Fitted) 
+tile4_8.png (Gneiss Fitted) 
+tile4_9.png (Peridotite Fitted) 
+tile4_10.png (Quartz Fitted)
+tile4_11.png (Granulite Fitted) 
+tile4_12.png (Hornfel Fitted)
+tile4_13.png (Migmatite Fitted) 
+tile4_14.png (Schist Fitted)
+tile4_15.png (Onyx Fitted)
+tile4_16.png (Opal Fitted)
+tile5_0.png (Granite Tile) 
+tile5_1.png (Basalt Tile)
+tile5_2.png (Marble Tile) 
+tile5_3.png (Limestone Tile) 
+tile5_4.png (Shale Tile)
+tile5_5.png (Sandstone Tile) 
+tile5_6.png (Pumice Tile)
+tile5_7.png (Slate Tile) 
+tile5_8.png (Gneiss Tile) 
+tile5_9.png (Peridotite Tile) 
+tile5_10.png (Quartz Tile)
+tile5_11.png (Granulite Tile) 
+tile5_12.png (Hornfel Tile)
+tile5_13.png (Migmatite Tile) 
+tile5_14.png (Schist Tile)
+tile5_15.png (Onyx Tile)
+tile5_16.png (Opal Tile)
+tile6_0.png (Granite Engraved)
+tile6_1.png (Basalt Engraved)
+tile6_2.png (Marble Engraved) 
+tile6_3.png (Limestone Engraved) 
+tile6_4.png (Shale Engraved)
+tile6_5.png (Sandstone Engraved) 
+tile6_6.png (Pumice Engraved)
+tile6_7.png (Slate Engraved) 
+tile6_8.png (Gneiss Engraved) 
+tile6_9.png (Peridotite Engraved) 
+tile6_10.png (Quartz Engraved)
+tile6_11.png (Granulite Engraved) 
+tile6_12.png (Hornfel Engraved)
+tile6_13.png (Migmatite Engraved) 
+tile6_14.png (Schist Engraved)
+tile6_15.png (Onyx Engraved)
+tile6_16.png (Opal Engraved)
+tile7_0.png (Granite Inscribed)
+tile7_1.png (Basalt Inscribed)
+tile7_2.png (Marble Inscribed) 
+tile7_3.png (Limestone Inscribed) 
+tile7_4.png (Shale Inscribed)
+tile7_5.png (Sandstone Inscribed) 
+tile7_6.png (Pumice Inscribed)
+tile7_7.png (Slate Inscribed) 
+tile7_8.png (Gneiss Inscribed) 
+tile7_9.png (Peridotite Inscribed) 
+tile7_10.png (Quartz Inscribed)
+tile7_11.png (Granulite Inscribed) 
+tile7_12.png (Hornfel Inscribed)
+tile7_13.png (Migmatite Inscribed) 
+tile7_14.png (Schist Inscribed)
+tile7_15.png (Onyx Inscribed)
+tile7_16.png (Opal Inscribed)
+tile8_0.png (Granite Cubed)
+tile8_1.png (Basalt Cubed)
+tile8_2.png (Marble Cubed) 
+tile8_3.png (Limestone Cubed) 
+tile8_4.png (Shale Cubed)
+tile8_5.png (Sandstone Cubed) 
+tile8_6.png (Pumice Cubed)
+tile8_7.png (Slate Cubed) 
+tile8_8.png (Gneiss Cubed) 
+tile8_9.png (Peridotite Cubed) 
+tile8_10.png (Quartz Cubed)
+tile8_11.png (Granulite Cubed) 
+tile8_12.png (Hornfel Cubed)
+tile8_13.png (Migmatite Cubed) 
+tile8_14.png (Schist Cubed)
+tile8_15.png (Onyx Cubed)
+tile8_16.png (Opal Cubed)
+tile9_0.png (Granite Lined)
+tile9_1.png (Basalt Lined)
+tile9_2.png (Marble Lined) 
+tile9_3.png (Limestone Lined) 
+tile9_4.png (Shale Lined)
+tile9_5.png (Sandstone Lined) 
+tile9_6.png (Pumice Lined)
+tile9_7.png (Slate Lined) 
+tile9_8.png (Gneiss Lined) 
+tile9_9.png (Peridotite Lined) 
+tile9_10.png (Quartz Lined)
+tile9_11.png (Granulite Lined) 
+tile9_12.png (Hornfel Lined)
+tile9_13.png (Migmatite Lined) 
+tile9_14.png (Schist Lined)
+tile9_15.png (Onyx Lined)
+tile9_16.png (Opal Lined)
+tile10_0.png (Granite Embossed)
+tile10_1.png (Basalt Embossed)
+tile10_2.png (Marble Embossed) 
+tile10_3.png (Limestone Embossed) 
+tile10_4.png (Shale Embossed)
+tile10_5.png (Sandstone Embossed) 
+tile10_6.png (Pumice Embossed)
+tile10_7.png (Slate Embossed) 
+tile10_8.png (Gneiss Embossed) 
+tile10_9.png (Peridotite Embossed) 
+tile10_10.png (Quartz Embossed)
+tile10_11.png (Granulite Embossed) 
+tile10_12.png (Hornfel Embossed)
+tile10_13.png (Migmatite Embossed) 
+tile10_14.png (Schist Embossed)
+tile10_15.png (Onyx Embossed)
+tile10_16.png (Opal Embossed)
+tile11_0.png (Granite Centered)
+tile11_1.png (Basalt Centered)
+tile11_2.png (Marble Centered) 
+tile11_3.png (Limestone Centered) 
+tile11_4.png (Shale Centered)
+tile11_5.png (Sandstone Centered) 
+tile11_6.png (Pumice Centered)
+tile11_7.png (Slate Centered) 
+tile11_8.png (Gneiss Centered) 
+tile11_9.png (Peridotite Centered) 
+tile11_10.png (Quartz Centered)
+tile11_11.png (Granulite Centered) 
+tile11_12.png (Hornfel Centered)
+tile11_13.png (Migmatite Centered) 
+tile11_14.png (Schist Centered)
+tile11_15.png (Onyx Centered)
+tile11_16.png (Opal Centered)
+tile12_0.png (Granite Raised)
+tile12_1.png (Basalt Raised)
+tile12_2.png (Marble Raised)
+tile12_3.png (Limestone Raised)
+tile12_4.png (Shale Raised)
+tile12_5.png (Sandstone Raised)
+tile12_6.png (Pumice Raised)
+tile12_7.png (Slate Raised) 
+tile12_8.png (Gneiss Raised) 
+tile12_9.png (Peridotite Raised) 
+tile12_10.png (Quartz Raised)
+tile12_11.png (Granulite Raised) 
+tile12_12.png (Hornfel Raised)
+tile12_13.png (Migmatite Raised) 
+tile12_14.png (Schist Raised)
+tile12_15.png (Onyx Raised)
+tile12_16.png (Opal Raised)
+tile13_0.png (Granite Etched)
+tile13_1.png (Basalt Etched)
+tile13_2.png (Marble Etched) 
+tile13_3.png (Limestone Etched) 
+tile13_4.png (Shale Etched)
+tile13_5.png (Sandstone Etched) 
+tile13_6.png (Pumice Etched)
+tile13_7.png (Slate Etched) 
+tile13_8.png (Gneiss Etched) 
+tile13_9.png (Peridotite Etched) 
+tile13_10.png (Quartz Etched)
+tile13_11.png (Granulite Etched) 
+tile13_12.png (Hornfel Etched)
+tile13_13.png (Migmatite Etched) 
+tile13_14.png (Schist Etched)
+tile13_15.png (Onyx Etched)
+tile13_16.png (Opal Etched)
+
+
+/vent
+fire.inside.png
+fire_top.png
+gas_inside.png
+gas_top.png
+inactive.png
+lava_inside.png
+lava_top.png
+smoke_inside.png
+smoke_top.png
+steam_inside.png
+steam_top.png
+water_inside.png
+water_top.png
