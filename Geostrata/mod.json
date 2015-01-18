@@ -1,0 +1,10 @@
+{
+  "mod_id": "geostrata",
+  "mod_name": "Geostrata",
+  "mod_dir": "/Geostrata/",
+  "mod_version": "v3b",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Reika"],
+  "url_website": "https://sites.google.com/site/reikasminecraft/geostrata",
+  "description": "A realistic geological world-gen mod. Adds a ton of new stone types"
+}
