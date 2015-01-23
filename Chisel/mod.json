@@ -2,9 +2,9 @@
   "mod_id": "chisel",
   "mod_name": "Chisel",
   "mod_dir": "/Chisel/",
-  "mod_version": "v2.0",
-  "mc_version": "1.7.2",
-  "mod_authors": ["AUTOMATIC_MAIDEN", "Pokefenn", "Cricket"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901-chisel",
+  "mod_version": "v2.3.3",
+  "mc_version": "1.7.10",
+  "mod_authors": ["AUTOMATIC_MAIDEN", "Pokefenn", "TheCricket26"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901",
   "description": "A mod that adds in many fancy blocks for decoration, which are crafted utilising the Chisel."
 }
