@@ -1,0 +1,10 @@
+{
+  "mod_id": "twistedtweaks",
+  "mod_name": "Twisted Tweaks",
+  "mod_dir": "/Twisted_Tweaks/",
+  "mod_version": "v0.1.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["artdude543", "MindlessPuppetz"],
+  "url_website": "https://github.com/TSSN/Twisted-Tweaks",
+  "description": "Twisted Tweaks making the game ever more twisted."
+}
