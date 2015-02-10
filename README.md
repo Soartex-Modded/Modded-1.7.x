@@ -7,6 +7,7 @@ with scripts and made available in the patcher and on the downloads page!
 
 - [Forums](http://soartex.net/community/)
 - [Downloads](http://soartex.net/downloads/)
+- [License](http://soartex.net/license/#fanver)
 
 [![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.7.x/badge/pr?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.7.x)
 [![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.7.x/badge/issue?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.7.x)
@@ -37,3 +38,7 @@ Note: Limit pull requests to one or two large commits to ease the script load on
 * When your pull request has been merged, delete your fork to ensure current pull requests in the future.
 
 [Don't want to go through Github?](http://soartex.net/community/threads/mod-contributions-texture-submissions.888/)
+
+### License
+* All files added to this repository are automatically covered by the main packs [license](http://soartex.net/license/#fanver) to protect the work submitted by the community.
+* Please obey by the licenses as this helps to protect the community's hard work.
