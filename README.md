@@ -29,13 +29,12 @@ _We welcome support for any mod!_
 
 _This requires moderate git/Github knowledge; if you need any help, feel free to contact us._
 
-Note: Limit pull requests to one or two large commits to ease the script load on the server. Thank you!
-
 * Fork this repository to your account.
 * Commit all of your textures to your forked repository.
 * Open a pull request from your repository to this one with a concise explanation of your changes.
 * Wait for either artdude543, Shoeboxam or Goldbattle to review your request before merging.
 * When your pull request has been merged, delete your fork to ensure current pull requests in the future.
+* A good tutorial on how to contribute is located [here](http://wiki.soartex.net/modded/01-02-2015/contributing-to-the-modded-repos/)
 
 [Don't want to go through Github?](http://soartex.net/community/threads/mod-contributions-texture-submissions.888/)
 
