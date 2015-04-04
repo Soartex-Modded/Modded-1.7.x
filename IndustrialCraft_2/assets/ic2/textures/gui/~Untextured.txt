@@ -1,5 +1,4 @@
 GUIAdvMiner.png
-GUIBlastFurnace.png
 GUIBlockCutter.png
 GUICanner.png
 GUIChargepadBlock.png
