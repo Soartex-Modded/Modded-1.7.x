@@ -1,0 +1,17 @@
+{
+  "name" : "ExtrabiomesXL",
+  "version" : "3.16.1",
+  "type" : "modded_standard",
+  "provider" : ["ftb",
+  "technic",
+  "atlauncher"
+  ],
+  "enabled" : true,
+  "is_public" : true,
+  "minecraft" : ["1.7.x"
+  ],
+  "resourcepacks" : ["fanver"
+  ],
+  "mods" : ["extrabiomesxl"
+  ]
+}
