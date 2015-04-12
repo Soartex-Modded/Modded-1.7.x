@@ -79,7 +79,6 @@ elfGlass0.png
 elfGlass1.png
 elfGlass2.png
 elfGlass3.png
-enchanter.png
 enchanterOverlay.png
 enderEyeBlock0.png
 enderEyeBlock1.png
