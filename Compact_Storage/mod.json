@@ -1,0 +1,10 @@
+{
+  "mod_id": "compactstorage",
+  "mod_name": "CompactStorage",
+  "mod_dir": "/Compact_Storage/",
+  "mod_version": "v2.0.0.9",
+  "mc_version": "1.7.10",
+  "mod_authors": ["tattyseal", "Mark_R"],
+  "url_website": "http:/github.com/Workshop-Development/CompactChests/",
+  "description": "Adding new storage solutions to your world!"
+}
