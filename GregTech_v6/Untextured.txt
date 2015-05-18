@@ -2340,7 +2340,6 @@
 /assets/gregtech/textures/items/materialicons/DIAMOND/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/DIAMOND/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/DIAMOND/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/DIAMOND/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/DIAMOND/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/DIAMOND/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/DIAMOND/toolHeadFile.png
@@ -2456,7 +2455,6 @@
 /assets/gregtech/textures/items/materialicons/DULL/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/DULL/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/DULL/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/DULL/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/DULL/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/DULL/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/DULL/toolHeadFile.png
@@ -2571,7 +2569,6 @@
 /assets/gregtech/textures/items/materialicons/EMERALD/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/EMERALD/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/EMERALD/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/EMERALD/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/EMERALD/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/EMERALD/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/EMERALD/toolHeadFile.png
@@ -2687,7 +2684,6 @@
 /assets/gregtech/textures/items/materialicons/FIERY/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/FIERY/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FIERY/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/FIERY/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/FIERY/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FIERY/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FIERY/toolHeadFile.png
@@ -2803,7 +2799,6 @@
 /assets/gregtech/textures/items/materialicons/FINE/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/FINE/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FINE/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/FINE/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/FINE/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FINE/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FINE/toolHeadFile.png
@@ -2918,7 +2913,6 @@
 /assets/gregtech/textures/items/materialicons/FLINT/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/FLINT/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLINT/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/FLINT/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/FLINT/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLINT/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLINT/toolHeadFile.png
@@ -3034,7 +3028,6 @@
 /assets/gregtech/textures/items/materialicons/FLUID/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/FLUID/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLUID/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/FLUID/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/FLUID/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLUID/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLUID/toolHeadFile.png
@@ -3150,7 +3143,6 @@
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/toolHeadFile.png
@@ -3266,7 +3258,6 @@
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/GEM_VERTICAL/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/toolHeadFile.png
@@ -3382,7 +3373,6 @@
 /assets/gregtech/textures/items/materialicons/GLASS/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/GLASS/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GLASS/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/GLASS/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/GLASS/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GLASS/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GLASS/toolHeadFile.png
@@ -3497,7 +3487,6 @@
 /assets/gregtech/textures/items/materialicons/LAPIS/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/LAPIS/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LAPIS/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/LAPIS/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/LAPIS/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LAPIS/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LAPIS/toolHeadFile.png
@@ -3613,7 +3602,6 @@
 /assets/gregtech/textures/items/materialicons/LEAF/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/LEAF/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LEAF/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/LEAF/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/LEAF/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LEAF/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LEAF/toolHeadFile.png
@@ -3729,7 +3717,6 @@
 /assets/gregtech/textures/items/materialicons/LIGNITE/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/LIGNITE/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/toolHeadFile.png
@@ -3845,7 +3832,6 @@
 /assets/gregtech/textures/items/materialicons/MAGNETIC/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/MAGNETIC/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/toolHeadFile.png
@@ -3961,7 +3947,6 @@
 /assets/gregtech/textures/items/materialicons/METALLIC/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/METALLIC/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/METALLIC/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/METALLIC/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/METALLIC/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/METALLIC/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/METALLIC/toolHeadFile.png
@@ -4076,7 +4061,6 @@
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/NETHERSTAR/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/toolHeadFile.png
@@ -4192,7 +4176,6 @@
 /assets/gregtech/textures/items/materialicons/NONE/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/NONE/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NONE/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/NONE/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/NONE/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NONE/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NONE/toolHeadFile.png
@@ -4308,7 +4291,6 @@
 /assets/gregtech/textures/items/materialicons/OPAL/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/OPAL/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/OPAL/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/OPAL/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/OPAL/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/OPAL/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/OPAL/toolHeadFile.png
@@ -4424,7 +4406,6 @@
 /assets/gregtech/textures/items/materialicons/PAPER/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/PAPER/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/PAPER/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/PAPER/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/PAPER/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/PAPER/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/PAPER/toolHeadFile.png
@@ -4540,7 +4521,6 @@
 /assets/gregtech/textures/items/materialicons/POWDER/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/POWDER/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/POWDER/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/POWDER/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/POWDER/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/POWDER/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/POWDER/toolHeadFile.png
@@ -4655,7 +4635,6 @@
 /assets/gregtech/textures/items/materialicons/QUARTZ/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/QUARTZ/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/toolHeadFile.png
@@ -4771,7 +4750,6 @@
 /assets/gregtech/textures/items/materialicons/ROUGH/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/ROUGH/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/ROUGH/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/ROUGH/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/ROUGH/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/ROUGH/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/ROUGH/toolHeadFile.png
@@ -4887,7 +4865,6 @@
 /assets/gregtech/textures/items/materialicons/RUBY/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/RUBY/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/RUBY/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/RUBY/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/RUBY/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/RUBY/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/RUBY/toolHeadFile.png
@@ -5003,7 +4980,6 @@
 /assets/gregtech/textures/items/materialicons/SAND/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/SAND/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SAND/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/SAND/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/SAND/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SAND/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SAND/toolHeadFile.png
@@ -5118,7 +5094,6 @@
 /assets/gregtech/textures/items/materialicons/SHARDS/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/SHARDS/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHARDS/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/SHARDS/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/SHARDS/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHARDS/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHARDS/toolHeadFile.png
@@ -5234,7 +5209,6 @@
 /assets/gregtech/textures/items/materialicons/SHINY/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/SHINY/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHINY/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/SHINY/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/SHINY/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHINY/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHINY/toolHeadFile.png
@@ -5350,7 +5324,6 @@
 /assets/gregtech/textures/items/materialicons/STONE/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/STONE/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/STONE/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/STONE/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/STONE/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/STONE/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/STONE/toolHeadFile.png
@@ -5466,7 +5439,6 @@
 /assets/gregtech/textures/items/materialicons/WOOD/toolHeadBuzzSaw.png
 /assets/gregtech/textures/items/materialicons/WOOD/toolHeadChainsaw_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/WOOD/toolHeadChisel_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/WOOD/toolHeadChisel.png
 /assets/gregtech/textures/items/materialicons/WOOD/toolHeadDrill_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/WOOD/toolHeadFile_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/WOOD/toolHeadFile.png
