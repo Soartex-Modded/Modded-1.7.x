@@ -2386,7 +2386,6 @@
 /assets/gregtech/textures/items/materialicons/DULL/bolt.png
 /assets/gregtech/textures/items/materialicons/DULL/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/DULL/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/DULL/chunkGt.png
 /assets/gregtech/textures/items/materialicons/DULL/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/DULL/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/DULL/crateGtGem_OVERLAY.png
@@ -2501,7 +2500,6 @@
 /assets/gregtech/textures/items/materialicons/EMERALD/bolt.png
 /assets/gregtech/textures/items/materialicons/EMERALD/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/EMERALD/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/EMERALD/chunkGt.png
 /assets/gregtech/textures/items/materialicons/EMERALD/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/EMERALD/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/EMERALD/crateGtGem_OVERLAY.png
@@ -2615,7 +2613,6 @@
 /assets/gregtech/textures/items/materialicons/FIERY/bolt.png
 /assets/gregtech/textures/items/materialicons/FIERY/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FIERY/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/FIERY/chunkGt.png
 /assets/gregtech/textures/items/materialicons/FIERY/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FIERY/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/FIERY/crateGtGem_OVERLAY.png
@@ -2730,7 +2727,6 @@
 /assets/gregtech/textures/items/materialicons/FINE/bolt.png
 /assets/gregtech/textures/items/materialicons/FINE/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FINE/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/FINE/chunkGt.png
 /assets/gregtech/textures/items/materialicons/FINE/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FINE/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/FINE/crateGtGem_OVERLAY.png
@@ -2845,7 +2841,6 @@
 /assets/gregtech/textures/items/materialicons/FLINT/bolt.png
 /assets/gregtech/textures/items/materialicons/FLINT/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLINT/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/FLINT/chunkGt.png
 /assets/gregtech/textures/items/materialicons/FLINT/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLINT/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/FLINT/crateGtGem_OVERLAY.png
@@ -2959,7 +2954,6 @@
 /assets/gregtech/textures/items/materialicons/FLUID/bolt.png
 /assets/gregtech/textures/items/materialicons/FLUID/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLUID/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/FLUID/chunkGt.png
 /assets/gregtech/textures/items/materialicons/FLUID/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/FLUID/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/FLUID/crateGtGem_OVERLAY.png
@@ -3074,7 +3068,6 @@
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/bolt.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/chunkGt.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/GEM_HORIZONTAL/crateGtGem_OVERLAY.png
@@ -3189,7 +3182,6 @@
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/bolt.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/GEM_VERTICAL/chunkGt.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/GEM_VERTICAL/crateGtGem_OVERLAY.png
@@ -3304,7 +3296,6 @@
 /assets/gregtech/textures/items/materialicons/GLASS/bolt.png
 /assets/gregtech/textures/items/materialicons/GLASS/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GLASS/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/GLASS/chunkGt.png
 /assets/gregtech/textures/items/materialicons/GLASS/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/GLASS/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/GLASS/crateGtGem_OVERLAY.png
@@ -3419,7 +3410,6 @@
 /assets/gregtech/textures/items/materialicons/LAPIS/bolt.png
 /assets/gregtech/textures/items/materialicons/LAPIS/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LAPIS/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/LAPIS/chunkGt.png
 /assets/gregtech/textures/items/materialicons/LAPIS/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LAPIS/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/LAPIS/crateGtGem_OVERLAY.png
@@ -3533,7 +3523,6 @@
 /assets/gregtech/textures/items/materialicons/LEAF/bolt.png
 /assets/gregtech/textures/items/materialicons/LEAF/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LEAF/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/LEAF/chunkGt.png
 /assets/gregtech/textures/items/materialicons/LEAF/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LEAF/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/LEAF/crateGtGem_OVERLAY.png
@@ -3648,7 +3637,6 @@
 /assets/gregtech/textures/items/materialicons/LIGNITE/bolt.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/LIGNITE/chunkGt.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/LIGNITE/crateGtGem_OVERLAY.png
@@ -3763,7 +3751,6 @@
 /assets/gregtech/textures/items/materialicons/MAGNETIC/bolt.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/MAGNETIC/chunkGt.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/MAGNETIC/crateGtGem_OVERLAY.png
@@ -3878,7 +3865,6 @@
 /assets/gregtech/textures/items/materialicons/METALLIC/bolt.png
 /assets/gregtech/textures/items/materialicons/METALLIC/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/METALLIC/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/METALLIC/chunkGt.png
 /assets/gregtech/textures/items/materialicons/METALLIC/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/METALLIC/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/METALLIC/crateGtGem_OVERLAY.png
@@ -3993,7 +3979,6 @@
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/bolt.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/NETHERSTAR/chunkGt.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/NETHERSTAR/crateGtGem_OVERLAY.png
@@ -4107,7 +4092,6 @@
 /assets/gregtech/textures/items/materialicons/NONE/bolt.png
 /assets/gregtech/textures/items/materialicons/NONE/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NONE/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/NONE/chunkGt.png
 /assets/gregtech/textures/items/materialicons/NONE/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/NONE/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/NONE/crateGtGem_OVERLAY.png
@@ -4222,7 +4206,6 @@
 /assets/gregtech/textures/items/materialicons/OPAL/bolt.png
 /assets/gregtech/textures/items/materialicons/OPAL/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/OPAL/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/OPAL/chunkGt.png
 /assets/gregtech/textures/items/materialicons/OPAL/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/OPAL/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/OPAL/crateGtGem_OVERLAY.png
@@ -4337,7 +4320,6 @@
 /assets/gregtech/textures/items/materialicons/PAPER/bolt.png
 /assets/gregtech/textures/items/materialicons/PAPER/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/PAPER/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/PAPER/chunkGt.png
 /assets/gregtech/textures/items/materialicons/PAPER/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/PAPER/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/PAPER/crateGtGem_OVERLAY.png
@@ -4452,7 +4434,6 @@
 /assets/gregtech/textures/items/materialicons/POWDER/bolt.png
 /assets/gregtech/textures/items/materialicons/POWDER/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/POWDER/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/POWDER/chunkGt.png
 /assets/gregtech/textures/items/materialicons/POWDER/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/POWDER/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/POWDER/crateGtGem_OVERLAY.png
@@ -4567,7 +4548,6 @@
 /assets/gregtech/textures/items/materialicons/QUARTZ/bolt.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/QUARTZ/chunkGt.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/QUARTZ/crateGtGem_OVERLAY.png
@@ -4681,7 +4661,6 @@
 /assets/gregtech/textures/items/materialicons/ROUGH/bolt.png
 /assets/gregtech/textures/items/materialicons/ROUGH/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/ROUGH/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/ROUGH/chunkGt.png
 /assets/gregtech/textures/items/materialicons/ROUGH/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/ROUGH/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/ROUGH/crateGtGem_OVERLAY.png
@@ -4796,7 +4775,6 @@
 /assets/gregtech/textures/items/materialicons/RUBY/bolt.png
 /assets/gregtech/textures/items/materialicons/RUBY/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/RUBY/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/RUBY/chunkGt.png
 /assets/gregtech/textures/items/materialicons/RUBY/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/RUBY/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/RUBY/crateGtGem_OVERLAY.png
@@ -4911,7 +4889,6 @@
 /assets/gregtech/textures/items/materialicons/SAND/bolt.png
 /assets/gregtech/textures/items/materialicons/SAND/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SAND/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/SAND/chunkGt.png
 /assets/gregtech/textures/items/materialicons/SAND/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SAND/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/SAND/crateGtGem_OVERLAY.png
@@ -5026,7 +5003,6 @@
 /assets/gregtech/textures/items/materialicons/SHARDS/bolt.png
 /assets/gregtech/textures/items/materialicons/SHARDS/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHARDS/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/SHARDS/chunkGt.png
 /assets/gregtech/textures/items/materialicons/SHARDS/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHARDS/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/SHARDS/crateGtGem_OVERLAY.png
@@ -5140,7 +5116,6 @@
 /assets/gregtech/textures/items/materialicons/SHINY/bolt.png
 /assets/gregtech/textures/items/materialicons/SHINY/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHINY/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/SHINY/chunkGt.png
 /assets/gregtech/textures/items/materialicons/SHINY/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/SHINY/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/SHINY/crateGtGem_OVERLAY.png
@@ -5255,7 +5230,6 @@
 /assets/gregtech/textures/items/materialicons/STONE/bolt.png
 /assets/gregtech/textures/items/materialicons/STONE/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/STONE/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/STONE/chunkGt.png
 /assets/gregtech/textures/items/materialicons/STONE/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/STONE/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/STONE/crateGtGem_OVERLAY.png
@@ -5370,7 +5344,6 @@
 /assets/gregtech/textures/items/materialicons/WOOD/bolt.png
 /assets/gregtech/textures/items/materialicons/WOOD/casingSmall_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/WOOD/chunkGt_OVERLAY.png
-/assets/gregtech/textures/items/materialicons/WOOD/chunkGt.png
 /assets/gregtech/textures/items/materialicons/WOOD/crateGtDust_OVERLAY.png
 /assets/gregtech/textures/items/materialicons/WOOD/crateGtDust.png
 /assets/gregtech/textures/items/materialicons/WOOD/crateGtGem_OVERLAY.png
