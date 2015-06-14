@@ -1,0 +1,8 @@
+assets/compactsolars/textures/armor/hvHat.png
+assets/compactsolars/textures/armor/lvHat.png
+assets/compactsolars/textures/armor/mvHat.png
+assets/compactsolars/textures/block_textures.png
+assets/compactsolars/textures/items/hvHat.png
+assets/compactsolars/textures/items/lvHat.png
+assets/compactsolars/textures/items/mvHat.png
+assets/compactsolars/textures/item_textures.png
