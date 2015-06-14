@@ -1,4 +1,0 @@
-default_icon
-error
-steam
-UNUSED_purple

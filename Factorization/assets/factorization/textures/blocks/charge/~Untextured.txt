@@ -1,2 +1,0 @@
-caliometric_side
-caliometric_top

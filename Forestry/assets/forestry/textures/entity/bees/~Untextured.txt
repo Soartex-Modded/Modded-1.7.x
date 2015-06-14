@@ -1,5 +1,0 @@
-endBee.png
-honeyBee.png
-icyBee.png
-sinisterBee.png
-tropicalBee.png

@@ -1,7 +1,0 @@
-block_0_14.png
-block_12_13.png
-block_12_14.png
-block_12_15.png
-block_13_14.png
-block_13_15.png
-escritoire.0.png
