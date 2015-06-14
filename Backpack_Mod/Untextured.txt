@@ -1,0 +1,1 @@
+assets/backpack/textures/model/backpack.png
