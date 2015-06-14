@@ -1,0 +1,16 @@
+assets/aroma1997sdimension/textures/blocks/miner/enchant.activated.png
+assets/aroma1997sdimension/textures/blocks/miner/enchant.unactivated.png
+assets/aroma1997sdimension/textures/blocks/miner/filler.activated.png
+assets/aroma1997sdimension/textures/blocks/miner/filler.unactivated.png
+assets/aroma1997sdimension/textures/blocks/miner/generator.activated.png
+assets/aroma1997sdimension/textures/blocks/miner/generator.unactivated.png
+assets/aroma1997sdimension/textures/blocks/miner/interface.activated.png
+assets/aroma1997sdimension/textures/blocks/miner/interface.unactivated.png
+assets/aroma1997sdimension/textures/blocks/miner/miner.activated.png
+assets/aroma1997sdimension/textures/blocks/miner/minerCore.activated.png
+assets/aroma1997sdimension/textures/blocks/miner/minerCore.unactivated.png
+assets/aroma1997sdimension/textures/blocks/miner/miner.unactivated.png
+assets/aroma1997sdimension/textures/blocks/miner/rf.activated.png
+assets/aroma1997sdimension/textures/blocks/miner/rf.unactivated.png
+assets/aroma1997sdimension/textures/items/dimensionChanger.png
+assets/aroma1997sdimension/textures/items/portalIgniter.png
