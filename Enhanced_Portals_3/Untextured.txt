@@ -1,0 +1,14 @@
+assets/enhancedportals/textures/blocks/frame_0.png
+assets/enhancedportals/textures/gui/crafting.png
+assets/enhancedportals/textures/gui/elements.png
+assets/enhancedportals/textures/gui/manualA.png
+assets/enhancedportals/textures/gui/manualB.png
+assets/enhancedportals/textures/gui/player_inventory.png
+assets/enhancedportals/textures/gui/program_interface.png
+assets/enhancedportals/textures/gui/resizable_interace.png
+assets/enhancedportals/textures/gui/tab_left.png
+assets/enhancedportals/textures/gui/tab_right.png
+assets/enhancedportals/textures/gui/textures_particles.png
+assets/enhancedportals/textures/gui/textures.png
+assets/enhancedportals/textures/items/diamondNugget.png
+assets/enhancedportals/textures/items/portal_module_6.png
