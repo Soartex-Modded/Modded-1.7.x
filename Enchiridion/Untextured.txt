@@ -1,0 +1,8 @@
+assets/books/textures/gui/guide_cover_left.png
+assets/books/textures/gui/guide_cover_right.png
+assets/books/textures/gui/guide_elements.png
+assets/books/textures/gui/guide_page_left.png
+assets/books/textures/gui/guide_page_right.png
+assets/books/textures/items/binder.png
+assets/books/textures/items/guide.png
+assets/books/textures/items/pages.png

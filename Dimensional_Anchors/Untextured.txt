@@ -1,0 +1,3 @@
+src/assets/dimanchor/textures/blocks/chunkloader.png
+src/assets/dimanchor/textures/gui/fueled.png
+src/assets/dimanchor/textures/gui/unfueled.png

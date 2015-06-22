@@ -1,0 +1,9 @@
+assets/compactmachines/textures/entities/villager.png
+assets/compactmachines/textures/items/enlarger.png
+assets/compactmachines/textures/items/interfaceitem.png
+assets/compactmachines/textures/items/quantumentangler_entangled.png
+assets/compactmachines/textures/items/quantumentangler.png
+assets/compactmachines/textures/items/shrinker.png
+assets/igwmod/textures/compactmachines/block_interface.png
+assets/igwmod/textures/compactmachines/gui_compactmachine.png
+assets/igwmod/textures/compactmachines/gui_interface.png

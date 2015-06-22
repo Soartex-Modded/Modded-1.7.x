@@ -1,2 +1,0 @@
-shrub.leaves
-shrub.trunk

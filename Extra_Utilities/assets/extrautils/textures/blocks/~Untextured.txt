@@ -1,9 +1,0 @@
-dark_portal.png
-greenscreen.png
-peaceful_table_bottom.png
-peaceful_table_side.png
-peaceful_table_top.png
-timer.png
-trashcan.png
-trashcan_bottom.png
-trashcan_top.png

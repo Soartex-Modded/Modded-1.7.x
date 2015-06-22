@@ -1,0 +1,5 @@
+assets/cofh/textures/gui/elements/Info_Angle.png
+assets/cofh/textures/gui/elements/Info_Distance.png
+assets/cofh/textures/gui/elements/Info_Duration.png
+assets/cofh/textures/gui/elements/Info_Force.png
+assets/cofh/textures/gui/elements/Info_Signal.png

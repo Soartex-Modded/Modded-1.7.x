@@ -1,0 +1,8 @@
+assets/elementalcreepers/textures/entities/cakecreeper.png
+assets/elementalcreepers/textures/entities/endercreeper.png
+assets/elementalcreepers/textures/entities/eucreeper.png
+assets/elementalcreepers/textures/entities/fireworkcreeper.png
+assets/elementalcreepers/textures/entities/hydrogencreeper.png
+assets/elementalcreepers/textures/entities/solarcreeper.png
+assets/elementalcreepers/textures/entities/spidercreeper.png
+assets/elementalcreepers/textures/entities/springcreeper.png

@@ -1,0 +1,1 @@
+assets/crystalwing/textures/items/enderScepter.png

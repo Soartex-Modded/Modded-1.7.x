@@ -1,0 +1,6 @@
+assets/computercraft/textures/blocks/commandComputerFrontBlink.png
+assets/computercraft/textures/blocks/commandComputerFrontOn.png
+assets/computercraft/textures/blocks/commandComputerFront.png
+assets/computercraft/textures/blocks/commandComputerSide.png
+assets/computercraft/textures/blocks/commandComputerTop.png
+assets/computercraft/textures/gui/cornersCommand.png

@@ -2,9 +2,9 @@
   "mod_id": "compactstorage",
   "mod_name": "CompactStorage",
   "mod_dir": "/Compact_Storage/",
-  "mod_version": "v2.0.0.9",
+  "mod_version": "v2.0.0.12",
   "mc_version": "1.7.10",
   "mod_authors": ["tattyseal", "Mark_R"],
-  "url_website": "http:/github.com/Workshop-Development/CompactChests/",
+  "url_website": "http://minecraft.curseforge.com/mc-mods/223703-compactstorage",
   "description": "Adding new storage solutions to your world!"
 }

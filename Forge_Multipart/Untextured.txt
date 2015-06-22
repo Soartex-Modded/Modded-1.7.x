@@ -1,0 +1,3 @@
+assets/microblock/textures/items/sawDiamond.png
+assets/microblock/textures/items/sawIron.png
+assets/microblock/textures/items/sawStone.png

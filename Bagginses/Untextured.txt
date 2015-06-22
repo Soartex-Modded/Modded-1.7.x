@@ -1,0 +1,9 @@
+assets/bagginses/textures/gui/backpack.png
+assets/bagginses/textures/gui/backpackT2.png
+assets/bagginses/textures/gui/backpackVoid.png
+assets/bagginses/textures/items/bag_upgrade1_alt.png
+assets/bagginses/textures/items/bag_upgrade1.png
+assets/bagginses/textures/items/bag_upgrade2.png
+assets/bagginses/textures/items/bag_upgrade3.png
+assets/bagginses/textures/items/bag_upgrade4.png
+assets/bagginses/textures/items/bag_upgrade5.png

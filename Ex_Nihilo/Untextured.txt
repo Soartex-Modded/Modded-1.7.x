@@ -1,0 +1,17 @@
+assets/exnihilo/textures/blocks/IconBarrelInternalClouds.png
+assets/exnihilo/textures/blocks/IconEnderGravel.png
+assets/exnihilo/textures/blocks/IconNetherGravel.png
+assets/exnihilo/textures/blocks/testtemplate.png
+assets/exnihilo/textures/items/IceShard.png
+assets/exnihilo/textures/items/IconGrassSeed.png
+assets/exnihilo/textures/items/IconMesh.png
+assets/exnihilo/textures/items/IconSpores.png
+assets/exnihilo/textures/items/ItemSeedAcacia.png
+assets/exnihilo/textures/items/ItemSeedCactus.png
+assets/exnihilo/textures/items/ItemSeedCarrot.png
+assets/exnihilo/textures/items/ItemSeedOak.png
+assets/exnihilo/textures/items/ItemSeedPotato.png
+assets/exnihilo/textures/items/ItemSeedRubber.png
+assets/exnihilo/textures/items/ItemSeedSugarcane.png
+assets/exnihilo/textures/items/SilkwormCooked.png
+assets/exnihilo/textures/items/Silkworm.png
