@@ -1,0 +1,4 @@
+gate_and.png
+gate_expansion_light_sensor.png
+gate_material_quartz.png
+gate_or.png

@@ -1,3 +1,0 @@
-blaze_arrow_shaft
-reed_arrow_shaft
-slimeleaf_arrow_fletching

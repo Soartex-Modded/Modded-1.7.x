@@ -1,8 +1,0 @@
-FortuneUpgrade
-HammerRF
-HammerRF_Active
-HammerRF_Drained
-ItemDollBlizz
-ItemDollPech
-ItemUnchargedNetherStar
-SpeedUpgrade

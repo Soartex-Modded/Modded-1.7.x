@@ -26,3 +26,6 @@ Icon
 # Artifacts left by other applications
 # SyncToy
 SyncToy*
+
+# Custom split-zip pack.mcmeta
+pack.mcmeta
