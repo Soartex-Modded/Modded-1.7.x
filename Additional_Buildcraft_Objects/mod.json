@@ -1,0 +1,10 @@
+{
+  "mod_id": "Additional-Buildcraft-Objects",
+  "mod_name": "Additional Buildcraft Objects",
+  "mod_dir": "/Additional_Buildcraft_Objects/",
+  "mod_version": "3.0.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["DA3DSOUL", "Flow86", "blakmajik"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2310397",
+  "description": "Extending Buildcraft with additional pipes and machines"
+}

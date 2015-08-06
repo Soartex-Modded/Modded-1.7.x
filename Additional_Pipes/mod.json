@@ -1,0 +1,10 @@
+{
+  "mod_id": "additionalpipes",
+  "mod_name": "Additional Pipes",
+  "mod_dir": "/Additional_Pipes/",
+  "mod_version": "4.6.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Zeldo", "DaStormBringer", "MultipleMonomials", "Additional Pipes Contributors"],
+  "url_website": "https://github.com/tcooc/AdditionalPipesBC/",
+  "description": "Teleport, insertion, extraction, and other pipes."
+}
