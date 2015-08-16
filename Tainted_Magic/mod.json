@@ -1,0 +1,10 @@
+{
+  "mod_id": "TaintedMagic",
+  "mod_name": "Tainted Magic",
+  "mod_dir": "/Tainted_Magic/",
+  "mod_version": "v1.1.5.4",
+  "mc_version": "1.7.x",
+  "mod_authors": ["John Yorke"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2437825",
+  "description": "A thaumcraft addon in which you will use the evil magics such as flux and warp to your advantage."
+}
