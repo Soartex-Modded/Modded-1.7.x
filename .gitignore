@@ -1,8 +1,10 @@
 # Image file caches
 Thumbs.db
 ehthumbs.db
+
 # Folder config file
 Desktop.ini
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
@@ -12,8 +14,13 @@ $RECYCLE.BIN/
 .AppleDouble
 .LSOverride
 Icon
+
 # Thumbnails
 ._*
+
+# gedit "backup copy"
+*~
+
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
