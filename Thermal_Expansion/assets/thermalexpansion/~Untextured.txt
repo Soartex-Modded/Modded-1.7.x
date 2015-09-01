@@ -6,4 +6,5 @@ items/satchel/SatchelCreative.png
 items/satchel/SatchelHardened.png
 items/satchel/SatchelReinforced.png
 items/satchel/SatchelResonant.png
+items/tool/BattleWrench.png
 items/tool/Igniter.png
