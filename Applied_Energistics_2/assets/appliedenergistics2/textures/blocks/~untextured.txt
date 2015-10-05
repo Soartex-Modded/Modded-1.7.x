@@ -1,9 +1,3 @@
-BlockQuartzGlassB.png
-BlockQuartzGlassC.png
-BlockQuartzGlassD.png
-BlockQuartzGlass.png
-BlockQuartzLamp.png
-BlockQuartzTorch.png
 BlockWirelessInside.png
 ItemFacade.png
 PartMonitor_Bright.png
