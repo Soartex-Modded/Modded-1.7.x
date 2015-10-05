@@ -1,6 +1,1 @@
-BlockWirelessInside.png
-ItemFacade.png
-PartMonitor_Bright.png
-PartMonitor_Colored.png
-Transparent.png
-White.png
+
