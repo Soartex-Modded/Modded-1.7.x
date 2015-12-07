@@ -86,11 +86,13 @@ endoflame.png
 entropinnyum.png
 exoflame.png
 fallenKanade.png
-flower15.png
+flower9Tall0.png
+flower9Tall1.png
+flower13Tall0.png
+flower13Tall1.png
+flower14Tall0.png
+flower14Tall1.png
 flower16.png
-flower7.png
-flower8.png
-flower9.png
 flowerCold.png
 flowerDead.png
 flowerHot.png
