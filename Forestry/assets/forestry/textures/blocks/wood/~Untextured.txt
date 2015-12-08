@@ -1,4 +1,3 @@
-bark.balsa.png
 bark.ipe.png
 bark.padauk.png
 bark.palm.png
