@@ -1,0 +1,10 @@
+{
+  "mod_id": "StorageDrawersNatura",
+  "mod_name": "Storage Drawers: Natura Pack",
+  "mod_dir": "/Storage_Drawers_Natura/",
+  "mod_version": "1.1.1",
+  "mc_version": "1.7.x",
+  "mod_authors": ["jaquadro"],
+  "url_website": "http://www.curse.com/mc-mods/minecraft/230642-storage-drawers-natura-pack",
+  "description": "Adds additional wood styles from the Natura mod."
+}
