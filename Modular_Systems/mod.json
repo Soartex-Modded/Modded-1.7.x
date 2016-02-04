@@ -1,0 +1,10 @@
+{
+  "mod_id": "modularsystems",
+  "mod_name": "Modular Systems",
+  "mod_dir": "/Modular_Systems/",
+  "mod_version": "2.2.1-B18",
+  "mc_version": "1.7.10",
+  "mod_authors": ["pauljoda"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291862-modular-systems-formally-modular-furnace",
+  "description": "Modular Systems is the conceptual successor to Modular Furnace. Its more of an expansion to the idea of modular multi-blocks. The original Modular Furnace mod is included as well as other modular systems. You can turn each system on and off in the config."
+}
