@@ -1,0 +1,3 @@
+bird.png
+pixie.png
+wasp.png

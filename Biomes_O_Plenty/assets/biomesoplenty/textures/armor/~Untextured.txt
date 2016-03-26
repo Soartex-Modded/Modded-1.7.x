@@ -1,8 +1,8 @@
-amethyst_1
-amethyst_2
-dullflowerband
-exoticflowerband
-lushflowerband
-mud_1
-mud_2
-plainflowerband
+dullflowerband.png
+exoticflowerband.png
+flippers.png
+lushflowerband.png
+mud_1.png
+mud_2.png
+plainflowerband.png
+wadingboots.png
