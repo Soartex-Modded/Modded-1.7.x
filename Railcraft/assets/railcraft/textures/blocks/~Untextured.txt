@@ -1,9 +1,5 @@
 admin.steam.producer.png
-anchor.passive.png
 chest.metals.png
-cube.copper.png
-cube.lead.png
-cube.tin.png
 electric.feeder.admin.png
 electric.feeder.png
 engraving.bench.png

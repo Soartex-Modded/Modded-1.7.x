@@ -1,6 +1,0 @@
-advancedCraftingTable
-assemblyTable
-integrationTable
-packagerBlock
-programmingTable
-stampingTable
