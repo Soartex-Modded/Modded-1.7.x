@@ -1,0 +1,4 @@
+glowstone_pickaxe_accessory.png
+glowstone_pickaxe_handle.png
+glowstone_pickaxe_head.png
+glowstone_pickaxe_head_broken.png

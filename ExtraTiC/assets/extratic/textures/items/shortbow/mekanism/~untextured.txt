@@ -1,0 +1,8 @@
+glowstone_bow_bottom.png
+glowstone_bow_bottom_1.png
+glowstone_bow_bottom_2.png
+glowstone_bow_bottom_3.png
+glowstone_bow_top.png
+glowstone_bow_top_1.png
+glowstone_bow_top_2.png
+glowstone_bow_top_3.png

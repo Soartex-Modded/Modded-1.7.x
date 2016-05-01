@@ -1,0 +1,4 @@
+glowstone_dagger_accessory.png
+glowstone_dagger_blade.png
+glowstone_dagger_blade_broken.png
+glowstone_dagger_handle.png

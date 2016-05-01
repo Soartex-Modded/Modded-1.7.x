@@ -1,0 +1,4 @@
+mud_pickaxe_accessory.png
+mud_pickaxe_handle.png
+mud_pickaxe_head.png
+mud_pickaxe_head_broken.png

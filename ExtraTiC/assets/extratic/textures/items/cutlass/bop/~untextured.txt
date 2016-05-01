@@ -1,0 +1,4 @@
+mud_cutlass_blade.png
+mud_cutlass_blade_broken.png
+mud_cutlass_guard.png
+mud_cutlass_handle.png

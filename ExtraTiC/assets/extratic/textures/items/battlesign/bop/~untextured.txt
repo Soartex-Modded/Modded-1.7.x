@@ -1,0 +1,3 @@
+mud_battlesign_handle.png
+mud_battlesign_head.png
+mud_battlesign_head_broken.png

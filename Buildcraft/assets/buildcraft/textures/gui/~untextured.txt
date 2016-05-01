@@ -1,1 +1,4 @@
-science_icons.png
+charging_table.png
+gate_interface_6.png
+generic_one_slot.png
+programming_table.png

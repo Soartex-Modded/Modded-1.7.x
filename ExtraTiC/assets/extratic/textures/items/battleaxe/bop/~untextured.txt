@@ -1,0 +1,9 @@
+mud_battleaxe_back.png
+mud_battleaxe_backhead.png
+mud_battleaxe_binding.png
+mud_battleaxe_front.png
+mud_battleaxe_fronthead.png
+mud_battleaxe_fronthead_broken.png
+mud_battleaxe_handle.png
+mud_battleaxe_head.png
+mud_battleaxe_head_broken.png

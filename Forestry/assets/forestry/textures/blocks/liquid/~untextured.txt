@@ -1,0 +1,9 @@
+bioethanol_still.png
+biomass_still.png
+for.honey_still.png
+glass_still.png
+ice_still.png
+juice_still.png
+milk_still.png
+seedoil_still.png
+short.mead_still.png

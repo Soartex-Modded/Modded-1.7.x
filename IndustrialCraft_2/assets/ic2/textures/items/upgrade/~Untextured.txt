@@ -1,8 +1,8 @@
-fluidEjectorUpgrade.png
 fluidEjectorUpgrade.0.png
 fluidEjectorUpgrade.1.png
 fluidEjectorUpgrade.2.png
 fluidEjectorUpgrade.3.png
 fluidEjectorUpgrade.4.png
 fluidEjectorUpgrade.5.png
+fluidEjectorUpgrade.png
 redstoneinvUpgrade.png

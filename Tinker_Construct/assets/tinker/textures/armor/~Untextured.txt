@@ -1,3 +1,9 @@
-enderpearl
-wood_1
-wood_2
+exosuit_1.png
+exosuit_2.png
+leather_1.png
+leather_1_b.png
+leather_2.png
+leather_2_b.png
+travel_1.png
+travel_2.png
+travel_wings.png

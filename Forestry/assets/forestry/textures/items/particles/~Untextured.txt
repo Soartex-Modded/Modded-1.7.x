@@ -1,2 +1,4 @@
 placeholder.png
-snow.png
+snow.1.png
+snow.2.png
+snow.3.png

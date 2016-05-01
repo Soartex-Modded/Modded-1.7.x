@@ -1,1 +1,2 @@
-AlvearyStimulator
+AlvearyStimulator.png
+AlvearyTransmission.png

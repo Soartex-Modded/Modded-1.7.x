@@ -1,7 +1,7 @@
-crystalguardamber
-crystalGuardMorganite
-crystalGuardTurquoise
-crystalwater
-googirl
-googirl_blue
-skyla
+crystalguardamber.png
+crystalGuardMorganite.png
+crystalGuardTurquoise.png
+crystalwater.png
+googirl.png
+googirl_blue.png
+skyla.png

@@ -1,0 +1,4 @@
+mud_dagger_accessory.png
+mud_dagger_blade.png
+mud_dagger_blade_broken.png
+mud_dagger_handle.png

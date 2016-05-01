@@ -1,0 +1,12 @@
+capIchor.png
+ichor1.png
+ichor2.png
+ichorGem1.png
+ichorGem2.png
+magnetN.png
+magnetS.png
+mobMagnetN.png
+mobMagnetS.png
+repairer.png
+rodIchorcloth.png
+wings.png

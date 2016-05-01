@@ -1,0 +1,3 @@
+bacon.png
+jerky_blood.png
+jerky_blueslime.png

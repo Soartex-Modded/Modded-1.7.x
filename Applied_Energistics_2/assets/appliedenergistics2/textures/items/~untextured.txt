@@ -1,12 +1,12 @@
+ItemCrystalSeed.Certus.png
 ItemCrystalSeed.Certus2.png
 ItemCrystalSeed.Certus3.png
-ItemCrystalSeed.Certus.png
+ItemCrystalSeed.Fluix.png
 ItemCrystalSeed.Fluix2.png
 ItemCrystalSeed.Fluix3.png
-ItemCrystalSeed.Fluix.png
+ItemCrystalSeed.Nether.png
 ItemCrystalSeed.Nether2.png
 ItemCrystalSeed.Nether3.png
-ItemCrystalSeed.Nether.png
 ItemMaterial.AdvCard.png
 ItemMaterial.BasicCard.png
 ItemMaterial.CalcProcessorPrint.png
@@ -24,7 +24,6 @@ ItemMaterial.SiliconPrint.png
 ItemMaterial.SkyDust.png
 ItemPaintBall.png
 ItemPaintBallShimmer.png
-ItemPaintBallShimmer.png.mcmeta
 ToolChargedStaff.png
 ToolColorApplicator.png
 ToolColorApplicatorTip_Dark.png

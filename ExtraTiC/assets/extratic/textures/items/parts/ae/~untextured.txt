@@ -1,0 +1,7 @@
+certus_quartz_bolt.png
+certus_quartz_bolt_2.png
+certus_quartz_bow_limb.png
+certus_quartz_crossbow_body.png
+certus_quartz_crossbow_limb.png
+certus_quartz_shuriken.png
+certus_quartz_trident_head.png

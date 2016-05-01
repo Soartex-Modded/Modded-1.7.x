@@ -1,5 +1,7 @@
 blockBlockCutter.png
 blockCondenser.png
 blockFluidRegulator.png
+blockLathe.png
+blockLiquidHeatExchanger.png
 blockSortingMachine.png
 blockSteamGenerator.png

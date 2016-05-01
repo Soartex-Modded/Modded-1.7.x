@@ -1,1 +1,3 @@
 bookui_cover.png
+scrollbar.png
+tradeshop.png

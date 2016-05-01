@@ -1,0 +1,4 @@
+glowstone_cutlass_blade.png
+glowstone_cutlass_blade_broken.png
+glowstone_cutlass_guard.png
+glowstone_cutlass_handle.png

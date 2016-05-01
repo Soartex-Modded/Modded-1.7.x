@@ -1,4 +1,5 @@
 noCircuitBoard.png
+noCircuitLayout.png
 noDisposal.png
 noEnergyNet.png
 noFarmland.png
@@ -6,7 +7,8 @@ noFertilizer.png
 noFuel.png
 noHeat.png
 noHoney.png
-noQueen.png
+noPaper.png
+noPower.png
 noRecipe.png
 noRecipient.png
 noSpace.png
@@ -15,7 +17,6 @@ notAlphaNumeric.png
 notGloomy.png
 notLucid.png
 notNight.png
-notPostpaid.png
 notRaining.png
 ok.png
 wrongStacksize.png

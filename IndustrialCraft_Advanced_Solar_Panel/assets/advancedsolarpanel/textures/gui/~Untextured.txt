@@ -1,2 +1,2 @@
-guiMolecularTransformer_nei
-guiMolecularTransformerNew
+guiMolecularTransformerNew.png
+guiMolecularTransformer_nei.png

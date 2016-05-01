@@ -1,0 +1,13 @@
+consuming.png
+corrupting.png
+educational.png
+greedy.png
+hellfire.png
+impact.png
+lucrative.png
+pandemonium.png
+pigbane.png
+potions.png
+runecircle.png
+voidtouched.png
+wrath.png

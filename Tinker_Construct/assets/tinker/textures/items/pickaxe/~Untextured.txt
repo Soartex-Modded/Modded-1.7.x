@@ -1,1 +1,1 @@
-smite_pickaxe_effect
+smite_pickaxe_effect.png

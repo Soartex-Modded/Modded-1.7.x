@@ -1,0 +1,5 @@
+glowstone_lumberaxe_binding.png
+glowstone_lumberaxe_handle.png
+glowstone_lumberaxe_head.png
+glowstone_lumberaxe_head_broken.png
+glowstone_lumberaxe_shield.png

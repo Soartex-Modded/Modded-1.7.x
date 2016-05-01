@@ -1,3 +1,5 @@
+adherent.png
+apocalypse2.png
 bighorn.png
 blockgoblin.png
 bunnybrown.png
@@ -5,6 +7,7 @@ bunnydutch.png
 bunnywhite.png
 carminitegolem.png
 cicada-model.png
+cubeofannihilation.png
 doublegoblin.png
 firebeetle.png
 firefly-tiny.png
@@ -14,7 +17,11 @@ hedgespider.png
 helmetcrab.png
 hydra4.png
 hydramortar.png
+icecrystal.png
+iceexploder.png
+iceshooter.png
 kingspider.png
+knightphantom.png
 kobold.png
 minoshroomtaur.png
 minotaur.png
@@ -24,7 +31,9 @@ mosquitoswarm.png
 nagahead.png
 nagasegment.png
 penguin.png
+phantomskeleton.png
 pinchbeetle.png
+protectionbox.png
 questram.png
 questram_lines.png
 raven.png
@@ -32,6 +41,7 @@ redcap.png
 redcapsapper.png
 skeletondruid.png
 slimebeetle.png
+snowqueen.png
 squirrel2.png
 swarmspider.png
 tinybirdblue.png
@@ -46,7 +56,11 @@ towerghast.png
 towerghast_fire.png
 towerghast_openeyes.png
 towertermite.png
+troll.png
 twilightlich64.png
 wildboar.png
 wilddeer.png
+winterwolf.png
 wraith.png
+yeti2.png
+yetialpha.png

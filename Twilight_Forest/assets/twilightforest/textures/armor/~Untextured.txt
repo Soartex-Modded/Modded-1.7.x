@@ -1,6 +1,13 @@
+arcticarmor_1.png
+arcticarmor_2.png
 fiery_1.png
 fiery_2.png
+knightly_1.png
+knightly_2.png
 naga_scale_1.png
 naga_scale_2.png
+phantom_1.png
 steeleaf_1.png
 steeleaf_2.png
+yetiarmor_1.png
+yetiarmor_2.png

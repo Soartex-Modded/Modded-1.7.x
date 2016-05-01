@@ -1,6 +1,4 @@
-bookcrafting
-bookfurnace
-bookmodify
-booksmeltery
-description
-extractor
+battlesignText.png
+bookmodify.png
+booksmeltery.png
+extractor.png

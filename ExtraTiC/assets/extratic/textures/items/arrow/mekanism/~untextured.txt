@@ -1,0 +1,2 @@
+glowstone_arrow_head.png
+glowstone_arrow_shaft.png

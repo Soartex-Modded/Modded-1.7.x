@@ -1,0 +1,7 @@
+glue_bolt.png
+glue_bolt_2.png
+glue_bow_limb.png
+glue_crossbow_body.png
+glue_crossbow_limb.png
+glue_shuriken.png
+glue_trident_head.png

@@ -1,0 +1,5 @@
+mud_scythe_accessory.png
+mud_scythe_binding.png
+mud_scythe_handle.png
+mud_scythe_head.png
+mud_scythe_head_broken.png

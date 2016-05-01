@@ -1,0 +1,4 @@
+generator_front_active.png
+grinder_front_active.png
+machine_fan.png
+sun_dial_front_active.png

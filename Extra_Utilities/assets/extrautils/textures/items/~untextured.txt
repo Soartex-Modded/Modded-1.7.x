@@ -1,0 +1,4 @@
+glove_1.png
+glove_2.png
+heatingElement.png
+mini-soul.png

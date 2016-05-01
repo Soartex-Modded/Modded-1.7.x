@@ -1,0 +1,4 @@
+exosuit_boots.png
+exosuit_chestplate.png
+exosuit_helmet.png
+exosuit_leggings.png

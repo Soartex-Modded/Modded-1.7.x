@@ -1,4 +1,2 @@
 fluid.png
-fluid.png.mcmeta
 fluid_flow.png
-fluid_flow.png.mcmeta

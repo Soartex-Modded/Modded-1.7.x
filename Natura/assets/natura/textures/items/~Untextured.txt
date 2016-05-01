@@ -3,3 +3,6 @@ armor_imp_boots.png
 armor_imp_helmet.png
 armor_imp_leggings.png
 cotton_plant.png
+flint_and_blaze.png
+nhopper.png
+saguaro_fruit_item.png

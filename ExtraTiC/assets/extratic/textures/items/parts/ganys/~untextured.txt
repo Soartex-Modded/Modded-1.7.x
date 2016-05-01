@@ -1,0 +1,14 @@
+endium_bolt.png
+endium_bolt_2.png
+endium_bow_limb.png
+endium_crossbow_body.png
+endium_crossbow_limb.png
+endium_shuriken.png
+endium_trident_head.png
+endstone_bolt.png
+endstone_bolt_2.png
+endstone_bow_limb.png
+endstone_crossbow_body.png
+endstone_crossbow_limb.png
+endstone_shuriken.png
+endstone_trident_head.png

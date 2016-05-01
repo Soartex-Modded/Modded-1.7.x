@@ -1,0 +1,5 @@
+glowstone_scythe_accessory.png
+glowstone_scythe_binding.png
+glowstone_scythe_handle.png
+glowstone_scythe_head.png
+glowstone_scythe_head_broken.png

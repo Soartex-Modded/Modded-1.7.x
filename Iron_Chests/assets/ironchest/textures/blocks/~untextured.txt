@@ -1,0 +1,3 @@
+dirtchest9000_front.png
+dirtchest9000_side.png
+dirtchest9000_top.png

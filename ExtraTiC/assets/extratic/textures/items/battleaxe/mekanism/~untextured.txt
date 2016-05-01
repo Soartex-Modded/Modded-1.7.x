@@ -1,0 +1,9 @@
+glowstone_battleaxe_back.png
+glowstone_battleaxe_backhead.png
+glowstone_battleaxe_binding.png
+glowstone_battleaxe_front.png
+glowstone_battleaxe_fronthead.png
+glowstone_battleaxe_fronthead_broken.png
+glowstone_battleaxe_handle.png
+glowstone_battleaxe_head.png
+glowstone_battleaxe_head_broken.png

@@ -1,0 +1,14 @@
+desichalkos_bolt.png
+desichalkos_bolt_2.png
+desichalkos_bow_limb.png
+desichalkos_crossbow_body.png
+desichalkos_crossbow_limb.png
+desichalkos_shuriken.png
+desichalkos_trident_head.png
+eximite_bolt.png
+eximite_bolt_2.png
+eximite_bow_limb.png
+eximite_crossbow_body.png
+eximite_crossbow_limb.png
+eximite_shuriken.png
+eximite_trident_head.png

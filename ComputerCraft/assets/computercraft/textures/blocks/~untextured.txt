@@ -1,0 +1,5 @@
+commandComputerFront.png
+commandComputerFrontBlink.png
+commandComputerFrontOn.png
+commandComputerSide.png
+commandComputerTop.png

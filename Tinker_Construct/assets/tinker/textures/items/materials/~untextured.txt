@@ -1,0 +1,8 @@
+bone_chunk.png
+bucket_enderium.png
+bucket_lumium.png
+bucket_mithril.png
+bucket_signalum.png
+cast_bobber.png
+paper_chunk.png
+pattern_bobber.png

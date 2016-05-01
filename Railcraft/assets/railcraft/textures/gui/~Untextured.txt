@@ -1,3 +1,8 @@
+gui_box_analog.png
+gui_cart_track_layer.png
 gui_craft_guide.png
+gui_fluid_loader.png
+gui_locomotive_electric.png
+gui_trade_station.png
 routing_table.png
 ticket_gold.png

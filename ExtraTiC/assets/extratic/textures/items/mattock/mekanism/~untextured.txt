@@ -1,0 +1,4 @@
+glowstone_mattock_back.png
+glowstone_mattock_handle.png
+glowstone_mattock_head.png
+glowstone_mattock_head_broken.png

@@ -1,0 +1,8 @@
+glove0.png
+glove1.png
+rwtemaBlade.png
+rwtemaSword.png
+wing_bat.png
+wing_butterfly.png
+wing_feather.png
+wing_golden.png

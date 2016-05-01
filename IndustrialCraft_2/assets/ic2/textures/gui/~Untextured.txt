@@ -1,6 +1,4 @@
 GUIAdvMiner.png
-GUIBlockCutter.png
-GUIChargepadBlock.png
 GUICondenser.png
 GUIContainmentbox.png
 GUICropHavester.png
@@ -19,7 +17,6 @@ GUINuclearReaktor.png
 GUINuclearReaktorFluid.png
 GUIOverlay.png
 GUIPatternStorage.png
-GUIReactorFluidPort.png
 GUIReplicator.png
 GUIRTHeatGenerator.png
 GUIScanner.png

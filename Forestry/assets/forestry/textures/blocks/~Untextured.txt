@@ -4,4 +4,9 @@ block_12_14.png
 block_12_15.png
 block_13_14.png
 block_13_15.png
+candleStumpLit.png
+candleStumpUnlit.png
+candleTipLit.png
+candleTipUnlit.png
 escritoire.0.png
+escritoire.png

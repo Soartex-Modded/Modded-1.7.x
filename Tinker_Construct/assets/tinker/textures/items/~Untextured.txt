@@ -1,7 +1,6 @@
-blankface
-blanksprite
-metalball
-polishingstone
-potionlauncher
-redstoneball
-styonearmourstand
+blankface.png
+blanksprite.png
+metalball.png
+polishingstone.png
+potionlauncher.png
+stonearmorstand.png

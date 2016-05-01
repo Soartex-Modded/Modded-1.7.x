@@ -1,0 +1,7 @@
+gate_and.png
+gate_and_dark.png
+gate_and_lit.png
+gate_material_quartz.png
+gate_or.png
+gate_or_dark.png
+gate_or_lit.png

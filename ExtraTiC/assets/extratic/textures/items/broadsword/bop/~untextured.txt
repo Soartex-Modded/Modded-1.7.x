@@ -1,0 +1,4 @@
+mud_sword_accessory.png
+mud_sword_blade.png
+mud_sword_blade_broken.png
+mud_sword_handle.png

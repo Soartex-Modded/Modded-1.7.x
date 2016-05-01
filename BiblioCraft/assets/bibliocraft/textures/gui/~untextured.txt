@@ -1,0 +1,15 @@
+atlasGUIbuttons.png
+atlasTransferGUI.png
+atlas_cover.png
+bigbookbuttons.png
+bigbookGUI.png
+clipboardGUI.png
+clockGUI.png
+fancysignGUI.png
+fancysignGUIbuttons.png
+paintingGUI.png
+paintpressGUI.png
+paintpressGUIbuttons.png
+panelerGUI.png
+typesettinggui_l.png
+typesettinggui_r.png

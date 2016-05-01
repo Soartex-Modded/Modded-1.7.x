@@ -1,0 +1,5 @@
+glowstone_excavator_binding.png
+glowstone_excavator_grip.png
+glowstone_excavator_handle.png
+glowstone_excavator_head.png
+glowstone_excavator_head_broken.png

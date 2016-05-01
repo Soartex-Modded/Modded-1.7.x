@@ -1,0 +1,3 @@
+glowstone_shovel_handle.png
+glowstone_shovel_head.png
+glowstone_shovel_head_broken.png

@@ -1,0 +1,4 @@
+glowstone_rapier_accessory.png
+glowstone_rapier_blade.png
+glowstone_rapier_blade_broken.png
+glowstone_rapier_handle.png

@@ -1,0 +1,5 @@
+mud_excavator_binding.png
+mud_excavator_grip.png
+mud_excavator_handle.png
+mud_excavator_head.png
+mud_excavator_head_broken.png

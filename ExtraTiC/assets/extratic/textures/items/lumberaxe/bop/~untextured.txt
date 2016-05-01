@@ -1,0 +1,5 @@
+mud_lumberaxe_binding.png
+mud_lumberaxe_handle.png
+mud_lumberaxe_head.png
+mud_lumberaxe_head_broken.png
+mud_lumberaxe_shield.png

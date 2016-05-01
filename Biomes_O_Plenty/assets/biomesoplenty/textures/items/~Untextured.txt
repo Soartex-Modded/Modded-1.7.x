@@ -6,7 +6,6 @@ berries.png
 biomebook.png
 biomeessence.png
 biomefinder.png
-biomefinder.png.mcmeta
 blackdye.png
 blank.png
 bluedye.png
@@ -45,16 +44,12 @@ mudpickaxe.png
 mudscythe.png
 mudshovel.png
 mudsword.png
-peach.png
-pear.png
 persimmon.png
-pinecone.png
 pixiedust.png
 plainflowerband.png
 poison.png
 poisondart.png
 record_corruption.png
-ricebowl.png
 saladfruit.png
 saladshroom.png
 saladveggie.png

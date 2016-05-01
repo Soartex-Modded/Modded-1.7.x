@@ -1,0 +1,4 @@
+glowstone_sword_accessory.png
+glowstone_sword_blade.png
+glowstone_sword_blade_broken.png
+glowstone_sword_handle.png

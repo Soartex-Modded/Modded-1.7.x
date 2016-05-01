@@ -1,0 +1,4 @@
+mud_mattock_back.png
+mud_mattock_handle.png
+mud_mattock_head.png
+mud_mattock_head_broken.png

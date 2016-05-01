@@ -1,2 +1,7 @@
+booster.png
 deskext.png
+folder.png
+folder_filled.png
 glasses.png
+portfolio.png
+wrapper.png

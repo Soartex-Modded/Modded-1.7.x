@@ -1,0 +1,10 @@
+BloodArmour_WIP.png
+bloodPack_layer_1.png
+boundArmour_invisible_layer_1.png
+boundArmour_invisible_layer_2.png
+OmegaEarth.png
+OmegaFire.png
+OmegaWater.png
+OmegaWind.png
+sanguineArmour_layer_1.png
+sanguineArmour_layer_2.png

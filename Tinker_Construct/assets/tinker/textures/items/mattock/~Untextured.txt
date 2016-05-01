@@ -1,1 +1,1 @@
-smite_mattock_effect
+smite_mattock_effect.png

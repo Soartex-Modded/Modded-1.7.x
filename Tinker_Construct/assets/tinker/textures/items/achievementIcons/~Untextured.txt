@@ -1,3 +1,3 @@
-dualConvenience
-enemySlayer
-preparedFight
+dualConvenience.png
+enemySlayer.png
+preparedFight.png

@@ -1,6 +1,8 @@
 apiaristDatabase.png
 beekeepingPage.png
 cast.png
+fieldGlass.png
+fieldKit.png
 helix.png
 masterApiaristDatabase.png
 punnettSquare.png
