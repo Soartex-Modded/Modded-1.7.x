@@ -9,16 +9,13 @@ cart.bore.png
 cart.gift.png
 cart.track.layer.png
 cart.track.remover.png
-emblem.png
 firestone.cracked.png
 firestone.cut.png
 firestone.raw.png
 firestone.refined.png
 part.bleached.clay.png
 part.gear.bushing.png
-part.plate.copper.png
 part.rail.electric.png
-tool.crowbar.void.png
 tool.electric.meter.png
 tool.magnifying.glass.png
 tool.signal.tuner.png

@@ -1,0 +1,6 @@
+log_magma_side.png
+log_magma_top.png
+log_void_side.png
+log_void_top.png
+planks_magma.png
+planks_void.png

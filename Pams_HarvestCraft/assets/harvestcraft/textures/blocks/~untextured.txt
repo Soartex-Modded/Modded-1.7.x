@@ -2,6 +2,7 @@ almondSapling.png
 almond_0.png
 almond_1.png
 almond_2.png
+animaltrap.png
 appleSapling.png
 apple_0.png
 apple_1.png
@@ -126,6 +127,8 @@ chilipeppercrop_1.png
 chilipeppercrop_2.png
 chilipeppercrop_3.png
 churnbottom.png
+churnfrontoff.png
+churnfronton.png
 churnside.png
 churntop.png
 cinnamonSapling.png
@@ -177,6 +180,7 @@ figSapling.png
 fig_0.png
 fig_1.png
 fig_2.png
+fishtrap.png
 garliccrop_0.png
 garliccrop_1.png
 garliccrop_2.png
@@ -364,6 +368,8 @@ potsidebottom.png
 pottop.png
 presserfront.png
 quernbottom.png
+quernfrontoff.png
+quernfronton.png
 quernside.png
 querntop.png
 radishcrop_0.png

@@ -25,6 +25,7 @@ baklavaItem.png
 bambooshootItem.png
 bamboosteamedriceItem.png
 bananaItem.png
+bananamilkshakeItem.png
 banananutbreadItem.png
 bananasplitItem.png
 bananayogurtItem.png
@@ -33,6 +34,7 @@ barleyItem.png
 bassrawItem.png
 batteredsausageItem.png
 batterItem.png
+bbqpulledporkItem.png
 beanburritoItem.png
 beanItem.png
 beanseedboxItem.png
@@ -115,6 +117,7 @@ cheesecakeItem.png
 cheeseItem.png
 cherrycheesecakeItem.png
 cherrycoconutchocolatebarItem.png
+cherryicecreamItem.png
 cherryItem.png
 cherrypieItem.png
 cherryyogurtItem.png
@@ -136,6 +139,7 @@ chocolatecaramelfudgeItem.png
 chocolatecherryItem.png
 chocolatedonutItem.png
 chocolateicecreamItem.png
+chocolatemilkshakeItem.png
 chocolatesprinklecakeItem.png
 chocolatestrawberryItem.png
 chocolateyogurtItem.png
@@ -156,9 +160,11 @@ coffeeconlecheItem.png
 coffeeItem.png
 coffeeseedboxItem.png
 coffeeseedpacketItem.png
+coleslawburgerItem.png
 coleslawItem.png
 combustiblelemonItem.png
 cornbreadItem.png
+cornflakesItem.png
 cornItem.png
 cornmealItem.png
 cornonthecobItem.png
@@ -213,6 +219,7 @@ fishlettucewrapItem.png
 fishsandwichItem.png
 fishsticksItem.png
 fishtacoItem.png
+fishtrapbaitItem.png
 flourItem.png
 footlongItem.png
 friedchickenItem.png
@@ -223,6 +230,7 @@ friesItem.png
 frogcookedItem.png
 frograwItem.png
 frosteddonutItem.png
+fruitbaitItem.png
 fruitcrumbleItem.png
 fruitsaladItem.png
 futomakiItem.png
@@ -240,6 +248,7 @@ gingerseedboxItem.png
 gingerseedpacketItem.png
 gingersnapsItem.png
 glazedcarrotsItem.png
+grainbaitItem.png
 grapefruitItem.png
 grapefruitsodaItem.png
 grapefruityogurtItem.png
@@ -285,6 +294,7 @@ kiwiseedboxItem.png
 kiwiseedpacketItem.png
 kiwiyogurtItem.png
 lambkebabItem.png
+lambwithmintsauceItem.png
 lamingtonItem.png
 lavendershortbreadItem.png
 leafychickensandwichItem.png
@@ -328,6 +338,7 @@ mustardseedsItem.png
 muttoncookedItem.png
 muttonrawItem.png
 nachoesItem.png
+neapolitanicecreamItem.png
 nutellaItem.png
 nutmegItem.png
 oatsItem.png
@@ -384,6 +395,7 @@ pineappleseedpacketItem.png
 pineappleupsidedowncakeItem.png
 pineappleyogurtItem.png
 pistachiobakedsalmonItem.png
+pistachioicecreamItem.png
 pistachioItem.png
 pizzaItem.png
 plainyogurtItem.png
@@ -407,6 +419,8 @@ pumpkinmuffinItem.png
 pumpkinoatsconesItem.png
 pumpkinyogurtItem.png
 queenbeeItem.png
+rabbitcookedItem.png
+rabbitrawItem.png
 radishItem.png
 radishseedboxItem.png
 radishseedpacketItem.png
@@ -428,10 +442,12 @@ ricecakeItem.png
 riceItem.png
 riceseedboxItem.png
 riceseedpacketItem.png
+roastchickenItem.png
 roastedchestnutItem.png
 roastedpeanutItem.png
 roastedpumpkinseedsItem.png
 roastedrootveggiemedleyItem.png
+roastpotatoesItem.png
 rottenseedboxItem.png
 rottenseedpacketItem.png
 rutabagaItem.png
@@ -467,13 +483,16 @@ spicymustardporkItem.png
 spinachItem.png
 spinachpieItem.png
 springsaladItem.png
+spumoniicecreamItem.png
 starfruitItem.png
 starfruityogurtItem.png
+steakandchipsItem.png
 steamedpeasItem.png
 steamedspinachItem.png
 stockItem.png
 strawberryicecreamItem.png
 strawberryItem.png
+strawberrymilkshakeItem.png
 strawberrypieItem.png
 strawberrysaladItem.png
 strawberryseedboxItem.png
@@ -485,6 +504,7 @@ stuffedpepperItem.png
 suaderoItem.png
 summerradishsaladItem.png
 summersquashwithradishItem.png
+sundayroastItem.png
 sunflowerbroccolisaladItem.png
 sunflowerseedboxItem.png
 sunflowerseedpacketItem.png
@@ -515,6 +535,8 @@ tortillaItem.png
 trailmixItem.png
 troutrawItem.png
 tunarawItem.png
+turkeycookedItem.png
+turkeyrawItem.png
 turnipItem.png
 turnipseedboxItem.png
 turnipseedpacketItem.png
@@ -527,7 +549,10 @@ vanillayogurtItem.png
 vegemiteItem.png
 vegemiteontoastItem.png
 vegetarianlettucewrapItem.png
+veggiebaitItem.png
 veggiestirfryItem.png
+venisoncookedItem.png
+venisonrawItem.png
 wafflesItem.png
 walleyerawItem.png
 walnutItem.png

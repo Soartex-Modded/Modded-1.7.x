@@ -1,0 +1,7 @@
+doubleChest.png
+quadrupleChest.png
+quintupleChest.png
+sextupleChest.png
+singleChest.png
+tripleChest.png
+upgrade.png

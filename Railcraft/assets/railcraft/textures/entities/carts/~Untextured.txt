@@ -1,5 +1,3 @@
-cart_track_layer.png
-cart_track_remover.png
 tunnel_bore.png
 tunnel_bore_diamond.png
 tunnel_bore_iron.png
