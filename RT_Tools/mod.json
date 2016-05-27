@@ -1,0 +1,10 @@
+{
+  "mod_id": "rftools",
+  "mod_name": "RF Tools",
+  "mod_dir": "/rftools/",
+  "mod_version": "v1.89-4.22beta28",
+  "mc_version": "1.8.9",
+  "mod_authors": ["McJty"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2229562-rftools-dimension-builder-teleportation-crafter",
+  "description": "The basic idea of this mod is to provide various items and tools that will make it easier for people to manage big RF networks and help with tech builds in general. This mod is not meant to be used on its own. You should use it together with mods like Thermal Expansion, EnderIO, and so on."
+}
