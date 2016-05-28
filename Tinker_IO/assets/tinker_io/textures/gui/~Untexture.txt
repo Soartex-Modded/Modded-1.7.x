@@ -1,0 +1,4 @@
+ASC.png
+ASC_old.png
+ASC2.png
+SmartOutput.png
