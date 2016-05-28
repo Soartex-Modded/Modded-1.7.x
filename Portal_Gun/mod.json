@@ -1,0 +1,10 @@
+{
+  "mod_id": "PortalGun",
+  "mod_name": "PortalGun",
+  "mod_dir": "/Portal_Gun/",
+  "mod_version": "v4.0.0-beta-6",
+  "mc_version": "1.7.10",
+  "mod_authors": ["iChun"],
+  "url_website": "http://ichun.me/mods/portalgun/",
+  "description": "This mod adds the portalgun, as well as several other portal-related aspects, to Minecraft!"
+}
