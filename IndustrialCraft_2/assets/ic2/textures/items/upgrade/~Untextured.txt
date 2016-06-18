@@ -5,4 +5,11 @@ fluidEjectorUpgrade.3.png
 fluidEjectorUpgrade.4.png
 fluidEjectorUpgrade.5.png
 fluidEjectorUpgrade.png
+pullingUpgrade.0.png
+pullingUpgrade.1.png
+pullingUpgrade.2.png
+pullingUpgrade.3.png
+pullingUpgrade.4.png
+pullingUpgrade.5.png
+pullingUpgrade.png
 redstoneinvUpgrade.png

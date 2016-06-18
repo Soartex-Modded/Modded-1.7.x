@@ -37,12 +37,10 @@ blood_flowing.png
 blood_still.png
 christmaslights.png
 cloverstem.png
-duckweed.png
 enderlotus.png
 eyebulbbottom.png
 eyebulbtop.png
 flatmushroom.png
-flax_flowers.png
 flowervine.png
 glowcoral.png
 goldenrod.png

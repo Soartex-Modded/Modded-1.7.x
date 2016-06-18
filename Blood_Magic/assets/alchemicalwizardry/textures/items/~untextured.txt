@@ -18,6 +18,8 @@ baseAlchemyItemPraesidium.png
 baseAlchemyItemReductus.png
 baseAlchemyItemStrengthenedCatalyst.png
 baseAlchemyItemVirtus.png
+baseIncenseItem.png
+baseIncenseItemWoodash.png
 baseItemCostCore.png
 baseItemCrackedRunicPlate.png
 baseItemDefaultCore.png
@@ -71,6 +73,7 @@ FireScribeTool.png
 focusBloodBlastOrn.png
 GreaterLengtheningCatalyst.png
 GreaterPowerCatalyst.png
+guide.png
 IceSigil_activated.png
 IceSigil_deactivated.png
 Incendium.png
@@ -103,6 +106,7 @@ OutputRoutingFocusMatchNBT.png
 OutputRoutingFocusModItems.png
 PotionFlask.png
 RitualDiviner.png
+ritual_dismantler.png
 Sanctus.png
 SanguineBoots.png
 SanguineHelmet.png

@@ -6,6 +6,7 @@ buildcraft.gate.trigger.temp.cold.png
 buildcraft.gate.trigger.temp.hot.png
 buildcraft.gate.trigger.temp.warm.png
 cart.bore.png
+cart.cargo.png
 cart.gift.png
 cart.track.layer.png
 cart.track.remover.png

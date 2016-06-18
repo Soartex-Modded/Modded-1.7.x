@@ -3,5 +3,6 @@ cloudinabottle-x.png
 cloudinabottle.png
 smashingrock.png
 upgrade_automation.png
+upgrade_reversion.png
 upgrade_speed.png
 upgrade_stack.png

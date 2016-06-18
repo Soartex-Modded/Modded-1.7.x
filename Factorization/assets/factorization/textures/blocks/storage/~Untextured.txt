@@ -1,1 +1,1 @@
-barrel_SYMBOL
+barrel_font.png

@@ -1,4 +1,5 @@
-default_icon
-error
-steam
-UNUSED_purple
+blasted_bedrock.png
+default_icon.png
+error.png
+fractured_bedrock.png
+UNUSED_purple.png

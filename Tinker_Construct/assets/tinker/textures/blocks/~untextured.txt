@@ -22,6 +22,3 @@ liquid_stone.png
 liquid_stone_flow.png
 liquid_villager.png
 liquid_villager_flow.png
-ore_aluminum_overlay.png
-ore_copper_overlay.png
-ore_tin_overlay.png

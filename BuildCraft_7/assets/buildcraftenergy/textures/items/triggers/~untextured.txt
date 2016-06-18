@@ -1,0 +1,2 @@
+trigger_coolant_below_threshold.png
+trigger_fuel_below_threshold.png

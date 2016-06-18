@@ -10,6 +10,9 @@ hops.png
 lepiDatabase.png
 masterArboristDatabase.png
 masterLepiDatabase.png
+setSquare0.png
+setSquare1.png
+setSquare2.png
 woodWax.png
 yeast.png
 yeastLager.png

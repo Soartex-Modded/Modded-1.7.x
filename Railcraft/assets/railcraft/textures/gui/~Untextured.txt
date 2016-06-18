@@ -1,4 +1,5 @@
 gui_box_analog.png
+gui_cart_cargo.png
 gui_cart_track_layer.png
 gui_craft_guide.png
 gui_fluid_loader.png

@@ -9,8 +9,10 @@ diamondCore.png
 endCore.png
 enderCollectorBottom.png
 enderCollectorSide.png
+enderCollectorSide_disabled.png
 enderCollectorTop1.png
 enderCollectorTop2.png
+enderCollectorTop2_disabled.png
 enderConstructor_pillar.png
 enderConstructor_pillar_bottom.png
 enderConstructor_pillar_enabled.png
@@ -38,5 +40,11 @@ peaceful_table_side.png
 peaceful_table_top.png
 timer.png
 trashcan.png
+trashcan1.png
+trashcan1_bottom.png
+trashcan1_top.png
+trashcan2.png
+trashcan2_bottom.png
+trashcan2_top.png
 trashcan_bottom.png
 trashcan_top.png

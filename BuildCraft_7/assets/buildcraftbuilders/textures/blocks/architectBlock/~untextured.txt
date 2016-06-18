@@ -1,2 +1,4 @@
 led_green.png
+led_mode_copy.png
+led_mode_edit.png
 led_red.png

@@ -5,6 +5,9 @@ BloodAltar_Bottom.png
 BloodAltar_SideType1.png
 BloodAltar_SideType2.png
 BloodAltar_Top.png
+Crucible_Bottom.png
+Crucible_Side.png
+Crucible_Top.png
 DemonPortal.png
 fireEffectBlock_blank.png
 fireEffectBlock_input.png

@@ -1,2 +1,2 @@
-caliometric_side
-caliometric_top
+caliometric_side.png
+caliometric_top.png

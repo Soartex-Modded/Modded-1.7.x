@@ -1,0 +1,8 @@
+conditionItem.png
+conditionLightPiece.png
+coordinateOperationMaxMin.png
+editSignPiece.png
+forEachCoordinate.png
+forEachItem.png
+itemAssignPiece.png
+logisticsPiece.png

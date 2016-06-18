@@ -26,6 +26,7 @@ GUISortingMachine.png
 GUISteamGenerator.png
 GUISteamKineticGenerator.png
 GUIStirlingGenerator.png
+GUIStirlingKineticGenerator.png
 GUIToolEUMeter.png
 GUIToolScanner.png
 GUIWaterKineticGenerator.png

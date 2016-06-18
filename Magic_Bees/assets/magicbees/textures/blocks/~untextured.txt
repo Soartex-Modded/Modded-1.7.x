@@ -1,4 +1,6 @@
 beegonia.png
+enchantedEarth.png
+enchantedEarth_top.png
 hibeescus.png
 hiveacynth.png
 manaApiaryBooster0.png

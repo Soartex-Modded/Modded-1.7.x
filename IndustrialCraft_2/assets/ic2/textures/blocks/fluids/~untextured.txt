@@ -2,6 +2,8 @@ biogas_still.png
 biomass_flow.png
 biomass_still.png
 constructionfoam_still.png
+hotwater_flow.png
+hotwater_still.png
 pahoehoelava_still.png
 steam_still.png
 superheatedsteam_still.png

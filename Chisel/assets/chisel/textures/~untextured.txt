@@ -1,3 +1,2 @@
 chisel2GuiAlt.png
 chisel2GuiScroll.png
-chiselNEI.png

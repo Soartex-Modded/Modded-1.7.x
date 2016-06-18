@@ -1,3 +1,4 @@
+filter2.png
 glove_1.png
 glove_2.png
 heatingElement.png

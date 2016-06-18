@@ -7,9 +7,12 @@ clipboardGUI.png
 clockGUI.png
 fancysignGUI.png
 fancysignGUIbuttons.png
+fancyworkbenchBookcaseGUI.png
 paintingGUI.png
 paintpressGUI.png
 paintpressGUIbuttons.png
 panelerGUI.png
+stockcatalogGUI.png
+stockcatalogsubGUI.png
 typesettinggui_l.png
 typesettinggui_r.png

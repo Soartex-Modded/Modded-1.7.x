@@ -7,3 +7,4 @@ plumbline.png
 recipebook.png
 saw.png
 screwgun.png
+stockcatalog.png
