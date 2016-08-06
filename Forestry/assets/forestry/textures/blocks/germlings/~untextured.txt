@@ -1,4 +1,0 @@
-sapling.treeCocobolo.png
-sapling.treeIpe.png
-sapling.treePadauk.png
-sapling.treeZebrawood.png

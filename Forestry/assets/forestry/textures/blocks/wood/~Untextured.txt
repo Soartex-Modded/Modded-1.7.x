@@ -11,4 +11,3 @@ planks.giganteum.png
 planks.ipe.png
 planks.padauk.png
 planks.zebrawood.png
-tile]-143.png

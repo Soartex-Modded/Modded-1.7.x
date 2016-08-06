@@ -1,3 +1,2 @@
 atlas.png
-buttons.png
 mailalert.png

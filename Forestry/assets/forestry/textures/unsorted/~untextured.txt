@@ -1,5 +1,0 @@
-tile]-10.png
-tile]-37.png
-tile]-88.png
-tile]-89.png
-tile]-90.png
