@@ -1,2 +1,0 @@
-led_green.png
-led_red.png

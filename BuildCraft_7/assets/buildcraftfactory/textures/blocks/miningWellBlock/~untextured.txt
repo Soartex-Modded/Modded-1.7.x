@@ -1,4 +1,0 @@
-bottom.png
-item_hatch.png
-led_green.png
-led_red.png

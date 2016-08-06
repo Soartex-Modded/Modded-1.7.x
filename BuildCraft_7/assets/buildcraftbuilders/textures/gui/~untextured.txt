@@ -1,3 +1,0 @@
-urbanist_tools.png
-urbanist_tool_filler.png
-urbanist_tool_place_block.png
