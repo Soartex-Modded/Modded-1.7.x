@@ -1,0 +1,10 @@
+{
+  "mod_id": "Igneous_Additions",
+  "mod_name": "Igneous Additions",
+  "mod_dir": "/Igneous_Additions/",
+  "mod_version": "1.1",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Syntaxial"],
+  "url_website": "https://minecraft.curseforge.com/projects/igneous-additions",
+  "description": "Igneous Additions started as a simple project; Create slabs and steps for igneous rocks. Since the original concepts, more features have been steadily added."
+}
