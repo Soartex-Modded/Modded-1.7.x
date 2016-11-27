@@ -1,7 +1,7 @@
 {
   "mod_id": "Translocator",
   "mod_name": "Translocator",
-  "mod_dir": "/translocator/",
+  "mod_dir": "/Translocator/",
   "mod_version": "v1.1.2.16",
   "mc_version": "1.7.10",
   "mod_authors": ["ChickenBones"],

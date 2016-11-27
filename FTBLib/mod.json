@@ -1,7 +1,7 @@
 {
   "mod_id": "FTBL",
   "mod_name": "FTBLib",
-  "mod_dir": "/ftbl/",
+  "mod_dir": "/FTBLib/",
   "mod_version": "1.7.10-1.0.11.3",
   "mc_version": "1.7.10",
   "mod_authors": ["LatvianModder", 	"Jared"],
