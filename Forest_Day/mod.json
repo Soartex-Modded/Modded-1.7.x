@@ -2,9 +2,9 @@
   "mod_id": "Forestday",
   "mod_name": "Forest Day",
   "mod_dir": "/Forest_Day/",
-  "mod_version": "1.0a",
+  "mod_version": "1.2.0a",
   "mc_version": "1.7.10",
-  "mod_authors": ["Alheimerjung"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/226149-forest-day",
+  "mod_authors": ["Alheimerjung", "Nedelosk"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2371822-forest-day",
   "description": "Old nature mechanics of the Forest."
 }
