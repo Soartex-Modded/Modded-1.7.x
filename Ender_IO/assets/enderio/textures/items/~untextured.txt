@@ -1,8 +1,6 @@
 attractorCrystal.png
 bucketFire_water.png
-bucketHootch.png
 bucketNutrient_distillation.png
-bucketRocket_fuel.png
 bucketXpjuice.png
 conduitFacadeHardened.png
 darkSteel_shears.png
@@ -12,7 +10,6 @@ dustWheat.png
 enderCrystal.png
 enderface.png
 endermanSkull.png
-ingotEnderiumBase.png
 inventoryPanelUpgrade.png
 itemCoordSelector.png
 itemCoordSelector_alt1.png

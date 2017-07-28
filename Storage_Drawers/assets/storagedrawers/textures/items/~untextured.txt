@@ -1,3 +1,4 @@
+tape_roll.png
 drawer_key.png
 drawer_key_red.png
 drawer_key_shroud.png

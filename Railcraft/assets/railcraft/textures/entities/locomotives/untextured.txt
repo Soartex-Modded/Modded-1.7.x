@@ -1,0 +1,4 @@
+locomotive.model.electric.default.primary.png
+locomotive.model.stem.magic.default.nocolor.png
+locomotive.model.electric.default.lamp.off.png
+locomotive.model.electric.default.lamp.on.png

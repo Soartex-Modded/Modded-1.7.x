@@ -16,7 +16,6 @@ blockDarkSteelPressurePlate.png
 blockEnchanter.png
 blockEnderIo.png
 blockSoulMachineBlank.png
-blockSoulMachineBottom.png
 blockTravelAnchor.png
 blockTravelAnchorHighlight.png
 blockTravelAnchorSelected.png

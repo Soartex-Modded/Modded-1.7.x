@@ -6,11 +6,8 @@ berries.png
 biomebook.png
 biomeessence.png
 biomefinder.png
-blackdye.png
 blank.png
-bluedye.png
 bookobiomes.png
-browndye.png
 bucket_blood.png
 bucket_poison.png
 crystalshard.png
@@ -25,7 +22,6 @@ filledhoneycomb.png
 fleshchunk.png
 flippers.png
 ghastlysoul.png
-greendye.png
 ichor.png
 jarempty.png
 jarhoney.png
@@ -61,5 +57,4 @@ sunflowerseeds.png
 turnip.png
 turnipseeds.png
 wadingboots.png
-whitedye.png
 wildcarrots.png
