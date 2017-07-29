@@ -1,17 +1,9 @@
-anvil_0.png
-anvil_1.png
-anvil_2.png
-anvil_base.png
-blank.png
 blankMachinePanel.png
-blockAttractorSide.png
-blockAttractorSideOn.png
 blockBuffer.png
 blockBufferCreative.png
 blockBufferItem.png
 blockBufferOmni.png
 blockBufferPower.png
-blockDarkSteelLadder.png
 blockDarkSteelPressurePlate.png
 blockEnchanter.png
 blockEnderIo.png
@@ -47,7 +39,6 @@ endermanSkullSide.png
 endermanSkullTop.png
 ender_still.png
 energeticAlloyBlock.png
-error.png
 farmModel.png
 fire_water_flow.png
 fire_water_still.png
@@ -129,10 +120,8 @@ rocket_fuel_flow.png
 rocket_fuel_still.png
 solarPanelAdvancedBorder.png
 solarPanelAdvancedSide.png
-solarPanelAdvancedTop.png
 solarPanelBorder.png
 solarPanelSide.png
-solarPanelTop.png
 soulariumBlock.png
 soulBinderModel.png
 telePadBottom.png

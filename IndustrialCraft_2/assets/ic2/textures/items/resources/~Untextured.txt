@@ -4,9 +4,6 @@ itemcarbonrotorblade.png
 itemcopperboiler.png
 itemcrystalmemory.png
 itemDiamondBlockCuttingBlade.png
-itemDustBronzeSmall.png
-itemDustLapiSmall.png
-itemDustObsidianSmall.png
 itemheatconductor.png
 itemIronBlockCuttingBlade.png
 itemironrotorblade.png

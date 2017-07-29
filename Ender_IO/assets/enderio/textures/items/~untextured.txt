@@ -1,7 +1,4 @@
 attractorCrystal.png
-bucketFire_water.png
-bucketNutrient_distillation.png
-bucketXpjuice.png
 conduitFacadeHardened.png
 darkSteel_shears.png
 darkSteel_swordAlt.png
