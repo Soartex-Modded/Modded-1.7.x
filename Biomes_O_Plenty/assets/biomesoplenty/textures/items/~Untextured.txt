@@ -40,7 +40,6 @@ mudpickaxe.png
 mudscythe.png
 mudshovel.png
 mudsword.png
-persimmon.png
 pixiedust.png
 plainflowerband.png
 poison.png
@@ -54,7 +53,6 @@ staffhandle.png
 staffpole.png
 stafftopper.png
 sunflowerseeds.png
-turnip.png
 turnipseeds.png
 wadingboots.png
 wildcarrots.png
