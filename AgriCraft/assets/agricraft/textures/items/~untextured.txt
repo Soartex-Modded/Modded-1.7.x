@@ -1,5 +1,3 @@
-handRake_iron.png
-handRake_wood.png
 magnifyingGlass.png
 seedAllium.png
 seedAurigold.png
@@ -47,5 +45,3 @@ seedTulipOrange.png
 seedTulipPink.png
 seedTulipRed.png
 seedTulipWhite.png
-trowel_empty.png
-trowel_full.png
