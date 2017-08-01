@@ -1,0 +1,10 @@
+GuiJournalBackground.png
+GuiJournalBrightnessBar.png
+GuiJournalBrightnessFrame.png
+GuiJournalFrontPage.png
+GuiJournalIntroduction.png
+GuiJournalMutationTemplate.png
+GuiJournalQuestionMark.png
+GuiJournalSeedFrame.png
+GuiJournalSeedPage.png
+GuiJournalTableOfContents.png

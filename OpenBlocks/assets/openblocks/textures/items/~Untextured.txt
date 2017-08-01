@@ -38,7 +38,6 @@ pedometer_still.png
 pencil.png
 pointer.png
 sketching_pencil.png
-sleepingbag.png
 slimeoff.png
 slimeon.png
 sonicglasses.png

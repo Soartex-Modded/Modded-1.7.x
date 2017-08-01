@@ -1,10 +1,1 @@
-bigbook.png
-framingboard.png
-framingsheet.png
-handdrill.png
 maptool.png
-plumbline.png
-recipebook.png
-saw.png
-screwgun.png
-stockcatalog.png

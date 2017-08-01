@@ -8,8 +8,6 @@ buildcraft.gate.trigger.temp.warm.png
 cart.bore.png
 cart.cargo.png
 cart.gift.png
-cart.track.layer.png
-cart.track.remover.png
 firestone.cracked.png
 firestone.cut.png
 firestone.raw.png

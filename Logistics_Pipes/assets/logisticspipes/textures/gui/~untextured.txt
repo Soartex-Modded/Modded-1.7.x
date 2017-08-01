@@ -1,5 +1,3 @@
 lines.png
-lock.png
 logic_connection.png
-soldering_station_nei.png
 stats.png
