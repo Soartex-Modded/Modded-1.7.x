@@ -23,7 +23,6 @@ itemDropper_down.png
 lightbox.png
 lightbox_back.png
 magnet_upgrade.png
-paintmixer.png
 pencilBlock.png
 pencilHalfPanel.png
 pencilPanel.png

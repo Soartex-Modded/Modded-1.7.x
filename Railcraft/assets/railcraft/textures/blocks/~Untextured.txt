@@ -1,11 +1,3 @@
-signal.box.analog.png
-signal.box.block.relay.png
-signal.box.capacitor.png
-signal.box.controller.png
-signal.box.interlock.png
-signal.box.png
-signal.box.receiver.png
-signal.box.sequencer.png
 stonelamp.candle.png
 trade.station.png
 wire.png
