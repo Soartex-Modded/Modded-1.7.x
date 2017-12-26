@@ -1,1 +1,13 @@
-gt.integrated_circuit.png
+gt.metaitem.03
+modulararmor_boots.png
+modulararmor_chestplate.png
+modulararmor_helmet.png
+modulararmor_leggings.png
+modularelectric1_boots.png
+modularelectric1_chestplate.png
+modularelectric1_helmet.png
+modularelectric1_leggings.png
+modularelectric2_boots.png
+modularelectric2_chestplate.png
+modularelectric2_helmet.png
+modularelectric2_leggings.png
