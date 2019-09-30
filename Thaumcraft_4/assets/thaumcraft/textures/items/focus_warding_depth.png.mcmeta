@@ -1,3 +1,6 @@
 {
-  "texture": {    "blur": true  }, "animation": {  }
+  "texture": {
+    "blur": true
+  },
+  "animation": {}
 }
