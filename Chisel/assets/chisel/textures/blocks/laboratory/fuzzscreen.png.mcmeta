@@ -1,9 +1,9 @@
 {
-    "ctm": {
-        "ctm_version": 1,
-        "type": "ctm",
-        "textures": [
-            "chisel:blocks/laboratory/fuzzscreen-ctm"
-        ]
-    }
+  "ctm": {
+    "ctm_version": 1,
+    "type": "ctm",
+    "textures": [
+      "chisel:blocks/laboratory/fuzzscreen-ctm"
+    ]
+  }
 }
