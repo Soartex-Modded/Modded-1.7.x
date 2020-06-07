@@ -1,10 +1,13 @@
 {
-  "mod_id": "Translocator",
-  "mod_name": "Translocator",
-  "mod_dir": "/Translocator/",
-  "mod_version": "v1.1.2.16",
-  "mc_version": "1.7.10",
-  "mod_authors": ["ChickenBones"],
-  "url_website": "http://chickenbones.net/Pages/links.html",
-  "description": "This mod adds short range compact item and liquid transport."
+    "mod_filename": "Translocator-1.7.10-1.1.2.16-universal.jar",
+    "mod_id": "Translocator",
+    "mod_name": "Translocator",
+    "mod_dir": "/Translocator/",
+    "mod_version": "v1.1.2.16",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "ChickenBones"
+    ],
+    "url_website": "http://chickenbones.net/Pages/links.html",
+    "description": "This mod adds short range compact item and liquid transport."
 }

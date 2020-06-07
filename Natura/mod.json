@@ -1,10 +1,14 @@
 {
-  "mod_id": "Natura",
-  "mod_name": "Natura",
-  "mod_dir": "/Natura/",
-  "mod_version": "v2.2.0",
-  "mc_version": "1.7.10",
-  "mod_authors": ["mDiyo", "Slime Knights"],
-  "url_website": "http://www.minecraftforum.net/topic/1753754-natura/",
-  "description": "Heyo, Redwood trees! Chop them all day long!"
+    "mod_id": "Natura",
+    "mod_name": "Natura",
+    "mod_filename": "natura-1.10.2-4.1.0.17.jar",
+    "mc_version": "1.7.2",
+    "mod_authors": [
+        "mDiyo",
+        "Slime Knights"
+    ],
+    "url_website": "www.minecraftforum.net/topic/1753754-natura/",
+    "description": "Natura",
+    "mod_version": "1.7.2-42.6fb5b37",
+    "mod_dir": "/Natura/"
 }

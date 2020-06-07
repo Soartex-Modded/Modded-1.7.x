@@ -1,0 +1,11 @@
+{
+    "mod_name": "Extra Planets",
+    "mc_version": "1.7.10",
+    "description": "Galacticraft 3 add-on",
+    "mod_id": "extraplanets",
+    "mod_authors": [
+        "MJRLegends"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/extraplanets",
+    "mod_dir": "/Extra_Planets/"
+}

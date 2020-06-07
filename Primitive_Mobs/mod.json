@@ -1,0 +1,13 @@
+{
+    "mod_id": "primitive-mobs",
+    "mod_name": "Primitive Mobs",
+    "mod_filename": "primitivemobs-1.0c-1.7.10.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Daveyx0"
+    ],
+    "url_website": "",
+    "description": "A small mod that adds mobs with \"Minecrafty\" feel.",
+    "mod_version": "v 1.0",
+    "mod_dir": "/Primitive_Mobs/"
+}

@@ -1,10 +1,12 @@
 {
-  "mod_id": "gregtech",
-  "mod_name": "GregTech v6",
-  "mod_dir": "/GregTech_v6/",
-  "mod_version": "v6.00.36",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Gregorius Techneticies"],
-  "url_website": "http://forum.industrial-craft.net/?page=Thread&threadID=7156",
-  "description": "This Mod adds the awesome Technology of GregTech-Intergalactical to your World!"
+    "mod_name": "GregTech v6",
+    "mod_id": "gregtech",
+    "mod_version": "1.5.6",
+    "mc_version": "1.7.10",
+    "url_website": "https://github.com/GTNewHorizons/GTScannerMod",
+    "description": "To locate ores deep underground.",
+    "mod_dir": "/GregTech_v6/",
+    "mod_authors": [
+        "Gregorius Techneticies"
+    ]
 }

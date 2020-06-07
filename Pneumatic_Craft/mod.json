@@ -1,10 +1,13 @@
 {
-  "mod_id": "PneumaticCraft",
-  "mod_name": "Pneumatic Craft",
-  "mod_dir": "/Pneumatic_Craft/",
-  "mod_version": "v1.12.3",
-  "mc_version": "1.7.10",
-  "mod_authors": ["MineMaarten"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/224125-pneumaticcraft/",
-  "description": "A technical mod all about pneumatics!"
+    "mod_id": "PneumaticCraft",
+    "mod_name": "Pneumatic Craft",
+    "mod_filename": "pneumaticcraft-repressurized-1.12.2-0.1.0-47.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "MineMaarten"
+    ],
+    "url_website": "www.minemaarten.com",
+    "description": "A mod all about pneumatics",
+    "mod_version": "1.12.1-144",
+    "mod_dir": "/Pneumatic_Craft/"
 }

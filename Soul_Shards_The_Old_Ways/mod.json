@@ -1,0 +1,14 @@
+{
+    "mod_id": "soul-shards-the-old-ways",
+    "mod_name": "Soul Shards: The Old Ways",
+    "mod_filename": "SoulShards-TOW-1.7.10-0.1-RC8-4.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "SgtPunishment",
+        "TehNut"
+    ],
+    "url_website": "",
+    "description": "Ever wanted to create your own mob spawners? Now you can!",
+    "mod_version": "RC8",
+    "mod_dir": "/Soul_Shards_The_Old_Ways/"
+}

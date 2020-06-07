@@ -1,0 +1,15 @@
+{
+    "mod_id": "mantle",
+    "mod_name": "Mantle",
+    "mod_filename": "Mantle-1.7.10-0.3.2a.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "mDiyo",
+        "Sunstrike",
+        "progWML6"
+    ],
+    "url_website": "https://github.com/SlimeKnights/Mantle",
+    "description": "Shared code for Forge mods",
+    "mod_version": "0.3.2a",
+    "mod_dir": "/Mantle/"
+}
