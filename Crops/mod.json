@@ -1,0 +1,10 @@
+{
+    "mod_name": "Crops++",
+    "mod_id": "berriespp",
+    "mod_version": "1.3.5.1",
+    "mc_version": "1.7.10",
+    "mod_authors": "bartimaeusnek",
+    "url_website": "https://github.com/bartimaeusnek/crops-plus-plus",
+    "description": "Adds over 50 new Crops to IndustrialCraft\ufffd and adds several new Gregtech Recipes",
+    "mod_dir": "/Crops/"
+}

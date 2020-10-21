@@ -1,10 +1,13 @@
 {
-  "mod_id": "harvestcraft",
-  "mod_name": "Pam's HarvestCraft",
-  "mod_dir": "/Pams_HarvestCraft/",
-  "mod_version": "v1.7.10d",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Pamela Collins"],
-  "url_website": "http://minecraft.curseforge.com/members/MatrexsVigil/projects",
-  "description": "An absolutely huge farming and food mod."
+    "mod_id": "harvestcraft",
+    "mod_name": "Pam's HarvestCraft",
+    "mod_filename": "Pam's HarvestCraft 1.7.10Lb.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "pamharvestcraft"
+    ],
+    "url_website": "http://minecraft.curseforge.com/members/MatrexsVigil/projects",
+    "description": "A farming mod that adds 60+ new crops, 36 new fruit trees, 17 new fish, simple beekeeping, and over 1100 new foods and items!",
+    "mod_version": "1.7.10i",
+    "mod_dir": "/Pams_HarvestCraft/"
 }

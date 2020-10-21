@@ -1,10 +1,14 @@
 {
-  "mod_id": "ThermalFoundation",
-  "mod_name": "Thermal Foundation",
-  "mod_dir": "/Thermal_Foundation/",
-  "mod_version": "v1.2.0-102",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Team CoFH"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/222880",
-  "description": "The foundation of a Thermally enhanced world!!"
+    "mod_id": "ThermalFoundation",
+    "mod_name": "Thermal Foundation",
+    "mod_filename": "ThermalFoundation-[1.7.10]1.2.6-118.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "TeamCoFH",
+        "KingLemmingCoFH"
+    ],
+    "url_website": "http://www.teamcofh.com",
+    "description": "The Foundation of a Thermally Expanding World!",
+    "mod_version": "1.2.6",
+    "mod_dir": "/Thermal_Foundation/"
 }

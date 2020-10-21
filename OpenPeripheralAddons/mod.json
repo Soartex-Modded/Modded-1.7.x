@@ -1,0 +1,17 @@
+{
+    "mod_id": "openperipheraladdons",
+    "mod_name": "OpenPeripheralAddons",
+    "mod_filename": "OpenPeripheralAddons-1.7.10-0.6.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Mikeemoo",
+        "cybcaoyibo",
+        "SinZ",
+        "theoriginalbit",
+        "Foone"
+    ],
+    "url_website": "http://www.openperipheral.info",
+    "description": "Random peripherals for OpenPeripheralCore",
+    "mod_version": "0.6",
+    "mod_dir": "/OpenPeripheralAddons/"
+}

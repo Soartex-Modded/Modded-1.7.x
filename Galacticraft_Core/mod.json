@@ -1,0 +1,13 @@
+{
+    "mod_name": "Galacticraft Core",
+    "mod_id": "galacticraftcore",
+    "mod_version": "3.0.12",
+    "mc_version": "1.7.10",
+    "url_website": "http://www.micdoodle8.com/",
+    "description": "An advanced space travel mod for Minecraft 1.7",
+    "mod_filename": "GalacticraftCore-1.12.2-4.0.2.211.jar",
+    "mod_dir": "/Galacticraft_Core/",
+    "mod_authors": [
+        "micdoodle8"
+    ]
+}

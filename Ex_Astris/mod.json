@@ -1,10 +1,13 @@
 {
-  "mod_id": "exastris",
-  "mod_name": "Ex Astris",
-  "mod_dir": "/Ex_Astris/",
-  "mod_version": "v1.15",
-  "mc_version": "1.7.10",
-  "mod_authors": ["LoveHoly"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/226340-ex-astris",
-  "description": "Ex Nihilo Add-on"
+    "mod_id": "exastris",
+    "mod_name": "Ex Astris",
+    "mod_filename": "Ex-Astris-MC1.7.10-1.16-31.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "insaneau"
+    ],
+    "url_website": "",
+    "description": "Adding more Mod Support to Ex Nihilo!",
+    "mod_version": "MC1.7.10-1.16-31",
+    "mod_dir": "/Ex_Astris/"
 }

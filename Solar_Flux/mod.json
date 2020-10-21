@@ -1,0 +1,13 @@
+{
+    "mod_id": "solar-flux",
+    "mod_name": "Solar Flux",
+    "mod_filename": "SolarFlux-1.7.10-0.6b.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "_ForgeUser14240544"
+    ],
+    "url_website": "",
+    "description": "Solar Panels that produce Redstone Flux",
+    "mod_version": "1.7.10-0.6b",
+    "mod_dir": "/Solar_Flux/"
+}

@@ -1,0 +1,12 @@
+{
+    "mod_name": "Project Blue",
+    "mod_id": "ProjectBlue",
+    "mod_version": "1.1.6-mc1.7.10",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Greg Ewing"
+    ],
+    "url_website": "http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/ProjectBlue/",
+    "description": "Additional blocks and items for Project Red.",
+    "mod_dir": "/Project_Blue/"
+}

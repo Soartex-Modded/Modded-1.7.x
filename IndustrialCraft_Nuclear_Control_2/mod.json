@@ -1,10 +1,14 @@
 {
-  "mod_id": "NuclearControl2",
-  "mod_name": "IC2 Nuclear Control 2",
-  "mod_dir": "/IndustrialCraft_Nuclear_Control_2/",
-  "mod_version": "2.4.3a",
-  "mc_version": "1.7.10",
-  "mod_authors": ["xbony2"],
-  "url_website": "https://github.com/xbony2/Nuclear-Control",
-  "description": "IC2 Nuclear Control gives players the ability to build efficient monitoring and control systems for various mods."
+    "mod_id": "NuclearControl2",
+    "mod_name": "IC2 Nuclear Control 2",
+    "mod_filename": "IC2NuclearControl-2.4.3a.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "xbony2",
+        "dmf444"
+    ],
+    "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915",
+    "description": "Monitor your reactors!",
+    "mod_version": "@VERSION@",
+    "mod_dir": "/IndustrialCraft_Nuclear_Control_2/"
 }
