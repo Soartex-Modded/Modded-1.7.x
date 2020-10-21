@@ -1,10 +1,12 @@
 {
-  "mod_id": "bloodarsenal",
-  "mod_name": "Blood Arsenal",
-  "mod_dir": "/Blood_Arsenal/",
-  "mod_version": "1.2.5",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Arcaratus"],
-  "url_website": "https://github.com/Arcaratus/BloodArsenal/",
-  "description": "Addon based around Blood Magic!"
+    "mod_id": "bloodarsenal",
+    "mod_name": "Blood Arsenal",
+    "mod_dir": "/Blood_Arsenal/",
+    "mod_version": "1.2.5",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Arcaratus"
+    ],
+    "url_website": "https://github.com/Arcaratus/BloodArsenal/",
+    "description": "Addon based around Blood Magic!"
 }

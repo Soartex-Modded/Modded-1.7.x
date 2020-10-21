@@ -1,10 +1,12 @@
 {
-  "mod_id": "craftingtweaks",
-  "mod_name": "Crafting Tweaks",
-  "mod_dir": "/Crafting_Tweaks/",
-  "mod_version": "v1.0.82",
-  "mc_version": "1.7.10",
-  "mod_authors": ["BlayTheNinth"],
-  "url_website": "https://minecraft.curseforge.com/projects/crafting-tweaks",
-  "description": "Rotate, balance and clear the crafting grid."
+    "mod_id": "craftingtweaks",
+    "mod_name": "Crafting Tweaks",
+    "mod_dir": "/Crafting_Tweaks/",
+    "mod_version": "v1.0.82",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "BlayTheNinth"
+    ],
+    "url_website": "https://minecraft.curseforge.com/projects/crafting-tweaks",
+    "description": "Rotate, balance and clear the crafting grid."
 }

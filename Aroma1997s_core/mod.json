@@ -1,10 +1,12 @@
 {
-  "mod_id": "Aroma1997Core",
-  "mod_name": "Aroma1997s Core",
-  "mod_dir": "/Aroma1997s_core/",
-  "mod_version": "v1.0.2.11",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Aroma1997"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod",
-  "description": "This is basically a library used by most Aroma1997s mods."
+    "mod_id": "aroma1997core",
+    "mod_name": "Aroma1997s Core",
+    "mod_dir": "/Aroma1997s_core/",
+    "mod_version": "v1.0.2.11",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Aroma1997"
+    ],
+    "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287828-aroma1997s-mods-betterchests-mining-world-mod",
+    "description": "This is basically a library used by most Aroma1997s mods."
 }

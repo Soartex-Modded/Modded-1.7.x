@@ -1,10 +1,12 @@
 {
-  "mod_id": "weeeflowers",
-  "mod_name": "Pam's Weee Flowers",
-  "mod_dir": "/Pams_Weee_Flowers/",
-  "mod_version": "v1.7.2b",
-  "mc_version": "1.7.2",
-  "mod_authors": ["Pamela Collins"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/221910-pams-weee-flowers",
-  "description": "This mod adds fourteen new flowers, allows you to farm those flowers (plus yellow and red MC flowers), and make decorative flower vines."
+    "mod_id": "weeeflowers",
+    "mod_name": "Pam's Weee Flowers",
+    "mod_dir": "/Pams_Weee_Flowers/",
+    "mod_version": "v1.7.2b",
+    "mc_version": "1.7.2",
+    "mod_authors": [
+        "Pamela Collins"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/221910-pams-weee-flowers",
+    "description": "This mod adds fourteen new flowers, allows you to farm those flowers (plus yellow and red MC flowers), and make decorative flower vines."
 }

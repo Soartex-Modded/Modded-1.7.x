@@ -1,10 +1,12 @@
 {
-  "mod_id": "",
-  "mod_name": "",
-  "mod_dir": "",
-  "mod_version": "v",
-  "mc_version": "1.7.10",
-  "mod_authors": [""],
-  "url_website": "",
-  "description": ""
+    "mod_id": "powerconverters",
+    "mod_name": "Power Converters",
+    "mod_dir": "/Power_Converters/",
+    "mod_version": "v",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        ""
+    ],
+    "url_website": "",
+    "description": ""
 }

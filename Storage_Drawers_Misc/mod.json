@@ -1,10 +1,12 @@
 {
-  "mod_id": "StorageDrawersMisc",
-  "mod_name": "Storage Drawers: Misc Pack",
-  "mod_dir": "/Storage_Drawers_Misc/",
-  "mod_version": "1.1.1",
-  "mc_version": "1.7.x",
-  "mod_authors": ["jaquadro"],
-  "url_website": "http://www.curse.com/mc-mods/minecraft/235539-storage-drawers-misc-pack",
-  "description": "Adds additional wood styles from various mods including ExtraBiomesXL, Highlands, Thaumcraft, and Witchery."
+    "mod_id": "storagedrawersmisc",
+    "mod_name": "Storage Drawers: Misc Pack",
+    "mod_dir": "/Storage_Drawers_Misc/",
+    "mod_version": "1.1.1",
+    "mc_version": "1.7.x",
+    "mod_authors": [
+        "jaquadro"
+    ],
+    "url_website": "http://www.curse.com/mc-mods/minecraft/235539-storage-drawers-misc-pack",
+    "description": "Adds additional wood styles from various mods including ExtraBiomesXL, Highlands, Thaumcraft, and Witchery."
 }

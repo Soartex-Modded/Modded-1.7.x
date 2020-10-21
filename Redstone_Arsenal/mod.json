@@ -1,10 +1,12 @@
 {
-  "mod_id": "RedstoneArsenal",
-  "mod_name": "Redstone Arsenal",
-  "mod_dir": "/Redstone_Arsenal/",
-  "mod_version": "1.1.2",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Team CoFH"],
-  "url_website": "https://teamcofh.com/docs/redstone-arsenal/",
-  "description": "Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!"
+    "mod_id": "redstonearsenal",
+    "mod_name": "Redstone Arsenal",
+    "mod_dir": "/Redstone_Arsenal/",
+    "mod_version": "1.1.2",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Team CoFH"
+    ],
+    "url_website": "https://teamcofh.com/docs/redstone-arsenal/",
+    "description": "Behold the Redstone (Flux) Revolution - provides Flux-Infused Tools and Armor!"
 }

@@ -1,10 +1,13 @@
 {
-  "mod_id": "exastrisrebirth",
-  "mod_name": "Ex Astris Rebirth",
-  "mod_dir": "/Ex_Astris_Rebirth/",
-  "mod_version": "v1.01-45",
-  "mc_version": "1.7.10",
-  "mod_authors": ["LoveHoly", "MikeLydeamore"],
-  "url_website": "https://github.com/Ex-Astris-Rebirth/Ex-Astris-Rebirth",
-  "description": "Ex Nihilo Add-on"
+    "mod_id": "exastrisrebirth",
+    "mod_name": "Ex Astris Rebirth",
+    "mod_dir": "/Ex_Astris_Rebirth/",
+    "mod_version": "v1.01-45",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "LoveHoly",
+        "MikeLydeamore"
+    ],
+    "url_website": "https://github.com/Ex-Astris-Rebirth/Ex-Astris-Rebirth",
+    "description": "Ex Nihilo Add-on"
 }

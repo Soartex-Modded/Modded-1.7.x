@@ -1,10 +1,13 @@
 {
-  "mod_id": "infiniteinvo",
-  "mod_name": "InfiniteInvo",
-  "mod_dir": "/InfiniteInvo/",
-  "mod_version": "v1.0.19",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Funwayguy", "Bacon_Donut"],
-  "url_website": "https://github.com/Funwayguy/InfiniteInvo",
-  "description": "Set your inventory as big as you like or at least until Java runs out of memory at ~2.14 BILLION SLOTS!"
+    "mod_id": "infiniteinvo",
+    "mod_name": "InfiniteInvo",
+    "mod_dir": "/InfiniteInvo/",
+    "mod_version": "v1.0.19",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Funwayguy",
+        "Bacon_Donut"
+    ],
+    "url_website": "https://github.com/Funwayguy/InfiniteInvo",
+    "description": "Set your inventory as big as you like or at least until Java runs out of memory at ~2.14 BILLION SLOTS!"
 }

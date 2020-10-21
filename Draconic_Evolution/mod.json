@@ -1,10 +1,12 @@
 {
-  "mod_id": "DraconicEvolution",
-  "mod_name": "Draconic Evolution",
-  "mod_dir": "/Draconic_Evolution/",
-  "mod_version": "v1.0.2",
-  "mc_version": "1.7.10",
-  "mod_authors": ["brandon3055"],
-  "url_website": "http://www.brandon3055.com/draconic-evolution/",
-  "description": "Powers of the Dragon, the Draconic, learn to harness ancient powers to make powerful tools, weapons, armor and items! Evolve into a master of this power, become Draconic Evolution!"
+    "mod_id": "draconicevolution",
+    "mod_name": "Draconic Evolution",
+    "mod_dir": "/Draconic_Evolution/",
+    "mod_version": "v1.0.2",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "brandon3055"
+    ],
+    "url_website": "http://www.brandon3055.com/draconic-evolution/",
+    "description": "Powers of the Dragon, the Draconic, learn to harness ancient powers to make powerful tools, weapons, armor and items! Evolve into a master of this power, become Draconic Evolution!"
 }

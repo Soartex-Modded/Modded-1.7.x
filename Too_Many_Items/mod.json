@@ -1,10 +1,12 @@
 {
-  "mod_id": "toomanyitems",
-  "mod_name": "Too Many Items",
-  "mod_dir": "/Too_Many_Items/",
-  "mod_version": "v7.5",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Marglyph"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272385",
-  "description": "Create & customize items, including those not available even in creative mode. Save and load entire inventories. Switch game modes and control time, weather, and more."
+    "mod_id": "toomanyitems",
+    "mod_name": "Too Many Items",
+    "mod_dir": "/Too_Many_Items/",
+    "mod_version": "v7.5",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Marglyph"
+    ],
+    "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272385",
+    "description": "Create & customize items, including those not available even in creative mode. Save and load entire inventories. Switch game modes and control time, weather, and more."
 }

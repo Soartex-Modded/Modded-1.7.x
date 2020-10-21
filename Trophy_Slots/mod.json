@@ -1,10 +1,12 @@
 {
-  "mod_id": "trophyslots",
-  "mod_name": "Trophy Slots",
-  "mod_dir": "/Trophy_Slots/",
-  "mod_version": "v1.0.0",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Lomeli12"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/226077-trophy-slots",
-  "description": "Disables slots in your inventory, which you gain back by completing achievements or via certain items."
+    "mod_id": "trophyslots",
+    "mod_name": "Trophy Slots",
+    "mod_dir": "/Trophy_Slots/",
+    "mod_version": "v1.0.0",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Lomeli12"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/226077-trophy-slots",
+    "description": "Disables slots in your inventory, which you gain back by completing achievements or via certain items."
 }

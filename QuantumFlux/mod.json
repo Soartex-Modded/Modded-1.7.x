@@ -1,10 +1,12 @@
 {
-  "mod_id": "quantumflux",
-  "mod_name": "QuantumFlux",
-  "mod_dir": "/QuantumFlux/",
-  "mod_version": "v1.3.1",
-  "mc_version": "1.7.10",
-  "mod_authors": ["jotato"],
-  "url_website": "http://minecraft.curseforge.com/projects/quantumflux",
-  "description": "The core of the mod is wireless transmission of power and an awesome looking set of armor."
+    "mod_id": "quantumflux",
+    "mod_name": "QuantumFlux",
+    "mod_dir": "/QuantumFlux/",
+    "mod_version": "v1.3.1",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "jotato"
+    ],
+    "url_website": "http://minecraft.curseforge.com/projects/quantumflux",
+    "description": "The core of the mod is wireless transmission of power and an awesome looking set of armor."
 }
