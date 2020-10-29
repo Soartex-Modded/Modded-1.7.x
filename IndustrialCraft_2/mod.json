@@ -1,14 +1,16 @@
 {
-    "mod_name": "IndustrialCraft 2",
     "mod_id": "ic2",
-    "mod_version": "2.2.828-experimental",
-    "mc_version": "1.7.10",
-    "url_website": "http://www.industrial-craft.net",
-    "description": "Industrial age themed expansion for Minecraft.",
+    "mod_name": "IndustrialCraft 2",
+    "mod_filename": "industrialcraft-2-2.8.170-ex112.jar",
+    "mc_version": "1.8.9",
     "mod_authors": [
-        "Gregorius Techneticies",
-        "Blood Asp"
+        "sfPlayer1",
+        "Chocohead",
+        "Aroma1997",
+        "estebess"
     ],
-    "mod_dir": "/IndustrialCraft_2/",
-    "mod_filename": "industrialcraft-2-2.8.170-ex112.jar"
+    "url_website": "http://www.industrial-craft.net",
+    "description": "A versatile, feature rich tech mod for Minecraft, initially released 2011.",
+    "mod_version": "2.3.249-ex18",
+    "mod_dir": "/IndustrialCraft_2/"
 }

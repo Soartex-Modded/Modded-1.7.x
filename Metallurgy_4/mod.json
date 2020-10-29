@@ -1,12 +1,13 @@
 {
     "mod_id": "metallurgy",
     "mod_name": "Metallurgy 4",
-    "mod_dir": "/Metallurgy_4/",
-    "mod_version": "v4.0.6",
-    "mc_version": "1.7.10",
+    "mod_filename": "Metallurgy-1.6.4-3.4.1.32.jar",
+    "mc_version": "1.6.4",
     "mod_authors": [
         "Team Metallurgy"
     ],
-    "url_website": "http://minecraft.curseforge.com/mc-mods/59641-metallurgy/",
-    "description": "Metallurgy 4 is a vast enhancement to the basic mining system."
+    "url_website": "http://www.minecraftforum.net/topic/744918-",
+    "description": "Metallurgy adds over 50 new metals for players to mine and make into tools/armor!",
+    "mod_version": "3.4.1",
+    "mod_dir": "/Metallurgy_4/"
 }

@@ -1,13 +1,13 @@
 {
+    "mod_filename": "extrautilities-1.2.12.jar",
     "mod_id": "extrautilities",
     "mod_name": "Extra Utilities",
-    "mod_filename": "extrautilities-1.2.12.jar",
-    "mc_version": "1.7.10",
+    "mc_version": "1.8.9",
     "mod_authors": [
-        "RWTema"
+        "darkevilmac"
     ],
-    "url_website": "",
-    "description": "Just a bunch of useful things",
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/davincis-vessels",
+    "description": "(Formerly Archimedes Ships Plus) Sail a boat, Fly in the skies, or Plunder the depths of the oceans.",
     "mod_version": "1.2.12",
     "mod_dir": "/Extra_Utilities/"
 }

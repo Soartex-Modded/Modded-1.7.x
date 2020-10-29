@@ -1,0 +1,14 @@
+{
+    "mod_id": "blood-magic",
+    "mod_name": "Blood Magic ",
+    "mod_filename": "BloodMagic-1.8.9-2.0.0-20.jar",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "WayofTime",
+        "TehNut"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1899223-bloodmagic",
+    "description": "An arcane art for ultimate power",
+    "mod_version": "1.8.9-2.0.0-20",
+    "mod_dir": "/Blood_Magic_/"
+}

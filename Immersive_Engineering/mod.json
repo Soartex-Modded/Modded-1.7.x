@@ -2,13 +2,13 @@
     "mod_id": "immersiveengineering",
     "mod_name": "Immersive Engineering",
     "mod_filename": "ImmersiveEngineering-0.7.4.jar",
-    "mc_version": "1.7.10",
+    "mc_version": "1.8.9",
     "mod_authors": [
         "BluSunrize",
         "malte0811"
     ],
     "url_website": "",
     "description": "A retro-futuristic tech mod!",
-    "mod_version": "0.7.4",
+    "mod_version": "0.8-27",
     "mod_dir": "/Immersive_Engineering/"
 }

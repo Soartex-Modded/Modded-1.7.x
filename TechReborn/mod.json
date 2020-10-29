@@ -1,9 +1,14 @@
 {
-    "mod_name": "TechReborn",
     "mod_id": "techreborn",
-    "mod_version": "0.3.2.791",
-    "mc_version": "1.7.10",
+    "mod_name": "TechReborn",
+    "mod_filename": "TechReborn-1.8.9-0.8.2.318-universal.jar",
+    "mc_version": "1.8.9",
+    "mod_authors": [
+        "modmuss50",
+        "drcrazy777"
+    ],
     "url_website": "https://github.com/TechReborn/TechReborn",
-    "description": "TechReborn, The Gregtech revival you dream about on a cool mid summer's eve.",
+    "description": "Tech Reborn is a completely standalone tech mod including tools and machines to gather resources, process materials, and progress through the mod.",
+    "mod_version": "0.8.2.318",
     "mod_dir": "/TechReborn/"
 }
