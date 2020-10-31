@@ -1,0 +1,13 @@
+{
+    "mod_id": "sync",
+    "mod_name": "Sync",
+    "mod_filename": "Sync-4.0.1.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "iChun"
+    ],
+    "url_website": "http://ichun.us/mods/sync/",
+    "description": "This mod provides clones, or as we like to call it, \u201cshells\u201d. These shells are basically a new individual, with their own inventory, experience level, and even gamemode.",
+    "mod_version": "4.0.1",
+    "mod_dir": "/Sync/"
+}

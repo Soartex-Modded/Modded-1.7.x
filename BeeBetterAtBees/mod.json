@@ -1,0 +1,9 @@
+{
+    "mod_name": "BeeBetterAtBees",
+    "mod_id": "beebetteratbees",
+    "mod_version": "0.3",
+    "mc_version": "1.7.10",
+    "url_website": "",
+    "description": "ClientSide NEI Addon to make bees a little less painful",
+    "mod_dir": "/BeeBetterAtBees/"
+}

@@ -8,6 +8,6 @@
     ],
     "url_website": "http://machinemuse.net/",
     "description": "A mod which adds modular power armor, power tool, and a tinker table to configure them. Uses EU (IndustrialCraft 2) or RF (Thermal Expansion 4).",
-    "mod_filename": "ModularPowersuits-1.12.2-0.7.0.035.jar",
-    "mod_dir": "/MachineMuses_Modular_Powersuits/"
+    "mod_dir": "/MachineMuses_Modular_Powersuits/",
+    "mod_filename": "ModularPowersuits-1.12.2-0.7.0.035.jar"
 }

@@ -2,12 +2,12 @@
     "mod_id": "randomthings",
     "mod_name": "Random Things",
     "mod_filename": "Random_Things_v._1.9__MC_1.6.4_.jar",
-    "mc_version": "1.8.9",
+    "mc_version": "1.7.10",
     "mod_authors": [
         "Lumien231"
     ],
     "url_website": "http://minecraft.curseforge.com/mc-mods/59816-random-things",
     "description": "Random Things adds various miscellaneous items and blocks to minecraft",
-    "mod_version": "3.6.6",
+    "mod_version": "2.2.4",
     "mod_dir": "/Random_Things/"
 }

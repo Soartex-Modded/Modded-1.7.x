@@ -1,0 +1,18 @@
+{
+    "mod_id": "blue-power",
+    "mod_name": "Blue Power",
+    "mod_filename": "BluePower-1.12.2-0.3.152-universal.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Quetzi",
+        "MoreThanHidden",
+        "K4Unl",
+        "Zness",
+        "minemaarten2",
+        "amadornes"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/223099-blue-power",
+    "description": "Blue Power adds a variety of ways to manipulate and transport blocks and redstone signals to the game",
+    "mod_version": "0.2.811",
+    "mod_dir": "/Blue_Power/"
+}

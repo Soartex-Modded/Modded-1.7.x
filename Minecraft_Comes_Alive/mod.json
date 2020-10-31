@@ -1,0 +1,13 @@
+{
+    "mod_id": "mca",
+    "mod_name": "Minecraft Comes Alive",
+    "mod_filename": "MCA-1.7.10-5.0.0-beta-universal.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "WildBamaBoy"
+    ],
+    "url_website": "http://www.radix-shock.com/mca--download.html",
+    "description": "No more boring Squidward villagers! Interact with human villagers and raise a family!",
+    "mod_version": "1.7.10-5.0.0-beta",
+    "mod_dir": "/Minecraft_Comes_Alive/"
+}

@@ -1,12 +1,15 @@
 {
     "mod_id": "weeeflowers",
     "mod_name": "Pam's Weee Flowers",
-    "mod_dir": "/Pams_Weee_Flowers/",
-    "mod_version": "v1.7.2b",
-    "mc_version": "1.7.2",
+    "mod_filename": "DrZharks MoCreatures Mod v6.3.1.zip",
+    "mc_version": "1.7.10",
     "mod_authors": [
-        "Pamela Collins"
+        "DrZhark",
+        "BloodShot",
+        "BlockDaddy"
     ],
-    "url_website": "http://minecraft.curseforge.com/mc-mods/221910-pams-weee-flowers",
-    "description": "This mod adds fourteen new flowers, allows you to farm those flowers (plus yellow and red MC flowers), and make decorative flower vines."
+    "url_website": "http://www.mocreatures.org",
+    "description": "adds new mobs to minecraft",
+    "mod_version": "6.3.1",
+    "mod_dir": "/Pams_Weee_Flowers/"
 }
