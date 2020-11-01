@@ -1,10 +1,12 @@
 {
-  "mod_id": "gravestone",
-  "mod_name": "GraveStone",
-  "mod_dir": "/GraveStone/",
-  "mod_version": "v2.11.3",
-  "mc_version": "1.7.10",
-  "mod_authors": ["NightKosh"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/62929-gravestone_mod",
-  "description": "This mod adds a gravestone and cemeteries to the game."
+    "mod_id": "gravestone",
+    "mod_name": "GraveStone",
+    "mod_dir": "/GraveStone/",
+    "mod_version": "v2.11.3",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "NightKosh"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/62929-gravestone_mod",
+    "description": "This mod adds a gravestone and cemeteries to the game."
 }

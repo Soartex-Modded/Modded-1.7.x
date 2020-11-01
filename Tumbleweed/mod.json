@@ -1,0 +1,13 @@
+{
+    "mod_id": "tumbleweed",
+    "mod_name": "Tumbleweed",
+    "mod_filename": "tumbleweed-1.7.10-0.2.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "konwboy"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/tumbleweed",
+    "description": "Tumbling tumbleweeds in Minecraft!",
+    "mod_version": "1.7.10-0.2",
+    "mod_dir": "/Tumbleweed/"
+}

@@ -1,0 +1,13 @@
+{
+    "mod_id": "endertech",
+    "mod_name": "EnderTech",
+    "mod_filename": "EnderTech-1.7.10-0.3.2.405.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Carrot"
+    ],
+    "url_website": "https://github.com/carrotengineer/EnderTech",
+    "description": "Ender themed technological expansion",
+    "mod_version": "1.7.10-0.3.2.393",
+    "mod_dir": "/EnderTech/"
+}

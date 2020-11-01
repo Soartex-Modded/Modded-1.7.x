@@ -1,10 +1,13 @@
 {
-  "mod_id": "BigReactors",
-  "mod_name": "Big Reactors",
-  "mod_dir": "/Big_Reactors/",
-  "mod_version": "v0.4.1A2",
-  "mc_version": "1.7.10",
-  "mod_authors": ["ErogenousBeef"],
-  "url_website": "http://www.big-reactors.com/",
-  "description": "Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power."
+    "mod_id": "bigreactors",
+    "mod_name": "Big Reactors",
+    "mod_filename": "ExtremeReactors-1.9.4-0.4.5.6.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "_ForgeUser23750043"
+    ],
+    "url_website": "http://www.big-reactors.com",
+    "description": "Big Reactors is a mod for Minecraft, built on the Forge modding platform.",
+    "mod_version": "0.4.0rc9",
+    "mod_dir": "/Big_Reactors/"
 }

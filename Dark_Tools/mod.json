@@ -1,10 +1,12 @@
 {
-  "mod_id": "darktools",
-  "mod_name": "Dark Tools",
-  "mod_dir": "/Dark_Tools/",
-  "mod_version": "v1.0",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Darkosto"],
-  "url_website": "http://www.twitch.tv/darkosto",
-  "description": "It adds tools!"
+    "mod_id": "darktools",
+    "mod_name": "Dark Tools",
+    "mod_dir": "/Dark_Tools/",
+    "mod_version": "v1.0",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Darkosto"
+    ],
+    "url_website": "http://www.twitch.tv/darkosto",
+    "description": "It adds tools!"
 }

@@ -1,0 +1,13 @@
+{
+    "mod_id": "ender-io-addons",
+    "mod_name": "Ender IO Addons",
+    "mod_filename": "EnderIOAddons-1.7.10-2.3.0.423_beta-0.10.4.047_beta.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "HenryLoenwind"
+    ],
+    "url_website": "http://enderioaddons.loenwind.info",
+    "description": "Ender IO Addons adds more machines to Ender IO",
+    "mod_version": "0.10.4",
+    "mod_dir": "/Ender_IO_Addons/"
+}

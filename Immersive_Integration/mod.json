@@ -1,10 +1,12 @@
 {
-  "mod_id": "immersiveintegration",
-  "mod_name": "Immersive Integration",
-  "mod_dir": "/Immersive_Integration/",
-  "mod_version": "v0.5.0",
-  "mc_version": "1.7.10",
-  "mod_authors": ["UnwrittenFun"],
-  "url_website": "http://minecraft.curseforge.com/mc-mods/232159-immersive-integration",
-  "description": "Integrates IE with other mods, as well as some useful addition to IE itself."
+    "mod_id": "immersiveintegration",
+    "mod_name": "Immersive Integration",
+    "mod_dir": "/Immersive_Integration/",
+    "mod_version": "v0.5.0",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "UnwrittenFun"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/232159-immersive-integration",
+    "description": "Integrates IE with other mods, as well as some useful addition to IE itself."
 }

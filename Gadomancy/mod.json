@@ -1,0 +1,9 @@
+{
+    "mod_name": "Gadomancy",
+    "mod_id": "gadomancy",
+    "mod_version": "1.7.10-1.0.7.6",
+    "mc_version": "1.7.10",
+    "url_website": "",
+    "description": "An addon for Thaumcraft.",
+    "mod_dir": "/Gadomancy/"
+}

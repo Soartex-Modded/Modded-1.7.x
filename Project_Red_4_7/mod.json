@@ -1,10 +1,14 @@
 {
-  "mod_id": "projectred_4_7",
-  "mod_name": "ProjectRed v4.7",
-  "mod_dir": "/Project_Red_4_7/",
-  "mod_version": "v4.7.0pre7.91",
-  "mc_version": "1.7.10",
-  "mod_authors": ["MrTJP", "ChickenBones"],
-  "url_website": "http://projectredwiki.com/wiki/Main_Page",
-  "description": "Redstone. The way it was meant to be."
+    "mod_id": "projectred_4_7",
+    "mod_name": "ProjectRed v4.7",
+    "mod_filename": "ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "MrTJP",
+        "covers1624"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/project-red-integration",
+    "description": "Redstone enthusiasts' one-stop-shop. Integration and Transmission modules for Project Red.",
+    "mod_version": "4.7.0pre12.95",
+    "mod_dir": "/Project_Red_4_7/"
 }

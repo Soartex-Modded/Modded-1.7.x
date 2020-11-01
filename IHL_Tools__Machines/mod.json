@@ -1,0 +1,9 @@
+{
+    "mod_name": "IHL Tools & Machines",
+    "mod_id": "ihl",
+    "mod_version": "0.600-1.7.10",
+    "mc_version": "1.7.10",
+    "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&postID=152495",
+    "description": "IC2 addon",
+    "mod_dir": "/IHL_Tools__Machines/"
+}

@@ -1,10 +1,14 @@
 {
-  "mod_id": "tinker_io",
-  "mod_name": "Tinker IO",
-  "mod_dir": "/Tinker_IO/",
-  "mod_version": "v1.5.0",
-  "mc_version": "1.7.10",
-  "mod_authors": ["GKB", "frank89722", "tokomikea"],
-  "url_website": "http://minecraft.curseforge.com/projects/tinker-i-o",
-  "description": "An addon for Tinker Construct."
+    "mod_id": "tinker_io",
+    "mod_name": "Tinker IO",
+    "mod_filename": "tinker_io-1.7.10-beta 1.4.2 a2.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "GKBm2011",
+        "tokomikea"
+    ],
+    "url_website": "http://minecraft.curseforge.com/mc-mods/229503-tinker-i-o",
+    "description": "Tinker I/O is a addon which use to extend the series of TConstruct Smeltery . ",
+    "mod_version": "beta 1.4.2 a2.DEV.GITBORK",
+    "mod_dir": "/Tinker_IO/"
 }

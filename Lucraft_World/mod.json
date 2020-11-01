@@ -1,0 +1,9 @@
+{
+    "mod_name": "Lucraft: World",
+    "mod_id": "lucraftworld",
+    "mod_version": "1.0.1",
+    "mc_version": "1.7.10",
+    "url_website": "",
+    "description": "The ore core mod for Lucraft Mods.",
+    "mod_dir": "/Lucraft_World/"
+}

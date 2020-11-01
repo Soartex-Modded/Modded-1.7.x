@@ -1,10 +1,12 @@
 {
-	"mod_id": "colourfulportalsmod",
-	"mod_name": "Colourful Portals",
-	"mod_dir": "/Colourful_Portals_Mod/",
-	"mod_version": "1.4.2",
-	"mcversion": "1.7.10",
-	"mod_authors": ["Tmtravlr"],
-	"url_website": "http://www.minecraftforum.net/topic/1965583-colourful-portals-mod-v132/",
-	"description": "Adds colourful portals, which are made with a frame of wool/stained clay/stained glass/any other coloured block and a new colourful water. For more info/change logs, visit the forum post at the url above."
+    "mod_id": "colourfulportalsmod",
+    "mod_name": "Colourful Portals",
+    "mod_dir": "/Colourful_Portals_Mod/",
+    "mod_version": "1.4.2",
+    "mcversion": "1.7.10",
+    "mod_authors": [
+        "Tmtravlr"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1965583-colourful-portals-mod-v132/",
+    "description": "Adds colourful portals, which are made with a frame of wool/stained clay/stained glass/any other coloured block and a new colourful water. For more info/change logs, visit the forum post at the url above."
 }

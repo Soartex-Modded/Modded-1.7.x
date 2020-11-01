@@ -1,10 +1,14 @@
 {
-  "mod_id": "AWWayofTime",
-  "mod_name": "Blood Magic",
-  "mod_dir": "/Blood_Magic/",
-  "mod_version": "v1.3.3-4",
-  "mc_version": "1.7.10",
-  "mod_authors": ["WayofTime"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-2-0a-updated-oct-20",
-  "description": "Rituals, spells, and more!"
+    "mod_id": "awwayoftime",
+    "mod_name": "Blood Magic",
+    "mod_filename": "BloodMagic-1.7.10-1.3.3-15.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "WayofTime",
+        "TehNut"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1899223-",
+    "description": "An arcane art for ultimate power",
+    "mod_version": "1.7.10-1.3.3-15",
+    "mod_dir": "/Blood_Magic/"
 }

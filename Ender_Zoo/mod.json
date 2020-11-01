@@ -1,10 +1,12 @@
 {
-  "mod_id": "enderzoo",
-  "mod_name": "Ender Zoo",
-  "mod_dir": "/Ender_Zoo/",
-  "mod_version": "1.4.7.38",
-  "mc_version": "1.7.10",
-  "mod_authors": ["SleepyTrousers"],
-  "url_website": "https://github.com/SleepyTrousers/EnderZoo",
-  "description": "Addon for EnderIO"
+    "mod_id": "enderzoo",
+    "mod_name": "Ender Zoo",
+    "mod_dir": "/Ender_Zoo/",
+    "mod_version": "1.4.7.38",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "SleepyTrousers"
+    ],
+    "url_website": "https://github.com/SleepyTrousers/EnderZoo",
+    "description": "Addon for EnderIO"
 }

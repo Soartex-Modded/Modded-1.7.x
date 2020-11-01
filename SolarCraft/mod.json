@@ -1,10 +1,13 @@
 {
-  "mod_id": "solarcraft",
-  "mod_name": "SolarCraft",
-  "mod_dir": "/SolarCraft/",
-  "mod_version": "v1.0.15",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Funwayguy", "Darkosto"],
-  "url_website": "https://drone.io/github.com/Funwayguy/SolarCraft",
-  "description": "Roam through the remains of the Minecraft world scattered throughout the solar system."
+    "mod_id": "solarcraft",
+    "mod_name": "SolarCraft",
+    "mod_dir": "/SolarCraft/",
+    "mod_version": "v1.0.15",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Funwayguy",
+        "Darkosto"
+    ],
+    "url_website": "https://drone.io/github.com/Funwayguy/SolarCraft",
+    "description": "Roam through the remains of the Minecraft world scattered throughout the solar system."
 }

@@ -1,12 +1,12 @@
 {
-  "mod_id": "supersolarpanel",
-  "mod_name": "Super Solar Panel",
-  "mod_dir": "/IndustrialCraft_Super_Solar_Panel/",
-  "mod_version": "1.7.10-1.0.0",
-  "mc_version": "1.7.10",
-  "mod_authors": [
-    "SeNtiMeL, Icedfire, ultramarine11"
-  ],
-  "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291",
-  "description": "This mod adds 4 new Solar Panels: Spectral Solar Panel, Singular Solar Panel, Light-Absorbing Solar Panel and Photonic"
+    "mod_id": "supersolarpanel",
+    "mod_name": "Super Solar Panel",
+    "mod_dir": "/IndustrialCraft_Super_Solar_Panel/",
+    "mod_version": "1.7.10-1.0.0",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "SeNtiMeL, Icedfire, ultramarine11"
+    ],
+    "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291",
+    "description": "This mod adds 4 new Solar Panels: Spectral Solar Panel, Singular Solar Panel, Light-Absorbing Solar Panel and Photonic"
 }

@@ -1,10 +1,13 @@
 {
-  "mod_id": "OpenEye",
-  "mod_name": "OpenEye",
-  "mod_dir": "/OpenEye/",
-  "mod_version": "v0.6",
-  "mc_version": "1.7.10",
-  "mod_authors": ["boq", "Mikee"],
-  "url_website": "http://openmods.info",
-  "description": "User protection, error management and analytics."
+    "mod_id": "openeye",
+    "mod_name": "OpenEye",
+    "mod_dir": "/OpenEye/",
+    "mod_version": "v0.6",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "boq",
+        "Mikee"
+    ],
+    "url_website": "http://openmods.info",
+    "description": "User protection, error management and analytics."
 }

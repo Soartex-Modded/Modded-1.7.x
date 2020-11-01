@@ -1,10 +1,14 @@
 {
-  "mod_id": "JABBA",
-  "mod_name": "Jabba",
-  "mod_dir": "/JABBA/",
-  "mod_version": "v1.2.0a",
-  "mc_version": "1.7.10",
-  "mod_authors": ["ProfMobius", "Taelnia"],
-  "url_website": "http://mobiusstrip.eu/wiki/Jabba",
-  "description": "Moar barrels."
+    "mod_filename": "Jabba-1.2.2_1.7.10.jar",
+    "mod_id": "jabba",
+    "mod_name": "Jabba",
+    "mod_dir": "/JABBA/",
+    "mod_version": "v1.2.0a",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "ProfMobius",
+        "Taelnia"
+    ],
+    "url_website": "http://mobiusstrip.eu/wiki/Jabba",
+    "description": "Moar barrels."
 }

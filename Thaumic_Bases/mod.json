@@ -1,0 +1,9 @@
+{
+    "mod_name": "Thaumic Bases",
+    "mod_id": "thaumicbases",
+    "mod_version": "1.4.20-0",
+    "mc_version": "1.7.10",
+    "url_website": "",
+    "description": "A Thaumcraft addon, that adds more earlygame and midgame content.",
+    "mod_dir": "/Thaumic_Bases/"
+}

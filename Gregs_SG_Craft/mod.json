@@ -1,0 +1,12 @@
+{
+    "mod_name": "Greg's SG Craft",
+    "mod_id": "sgcraft",
+    "mod_version": "1.13.3-mc1.7.10",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Greg Ewing"
+    ],
+    "url_website": "http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/SGCraft/",
+    "description": "SG-1 stargates and other stuff.",
+    "mod_dir": "/Gregs_SG_Craft/"
+}

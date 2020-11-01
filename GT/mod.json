@@ -1,0 +1,9 @@
+{
+    "mod_name": "GT++",
+    "mod_id": "miscutils",
+    "mod_version": "1.7.03.01",
+    "mc_version": "1.7.10",
+    "url_website": "https://github.com/draknyte1/GTplusplus/wiki",
+    "description": "Adds over 100 new Multiblocks, Machines, etc to Gregtech.",
+    "mod_dir": "/GT/"
+}

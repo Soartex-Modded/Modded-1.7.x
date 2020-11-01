@@ -1,10 +1,12 @@
 {
-  "mod_id": "Elemental_Melons",
-  "mod_name": "Elemental Melons",
-  "mod_dir": "/Elemental_Melons/",
-  "mod_version": "1.2",
-  "mc_version": "1.7.10",
-  "mod_authors": ["J3FF97"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2133900-1-7-10-elemental-melons-version-1-2",
-  "description": "As the name suggests, this mod adds 4 different melons (Slices, Seeds and Blocks) Which have elemental properties. Okay not really, but when eaten they give status effects."
+    "mod_id": "elemental_melons",
+    "mod_name": "Elemental Melons",
+    "mod_dir": "/Elemental_Melons/",
+    "mod_version": "1.2",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "J3FF97"
+    ],
+    "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2133900-1-7-10-elemental-melons-version-1-2",
+    "description": "As the name suggests, this mod adds 4 different melons (Slices, Seeds and Blocks) Which have elemental properties. Okay not really, but when eaten they give status effects."
 }

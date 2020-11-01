@@ -1,0 +1,13 @@
+{
+    "mod_id": "forge-multi-part",
+    "mod_name": "Forge Multi Part",
+    "mod_filename": "ForgeMultipart-universal-1.6.4-1.0.1.268.jar",
+    "mc_version": "1.6.4",
+    "mod_authors": [
+        "ChickenBones"
+    ],
+    "url_website": "https://github.com/Chicken-Bones/ForgeMultipart",
+    "description": "an opensource library for having multiple things in the one block space.",
+    "mod_version": "1.0.1.268",
+    "mod_dir": "/Forge_Multi_Part/"
+}

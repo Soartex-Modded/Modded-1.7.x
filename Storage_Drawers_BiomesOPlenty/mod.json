@@ -1,10 +1,13 @@
 {
-  "mod_id": "StorageDrawersBiomesOPlenty",
-  "mod_name": "Storage Drawers: BiomesOPlenty Pack",
-  "mod_dir": "/Storage_Drawers_BiomesOPlenty/",
-  "mod_version": "1.1.1",
-  "mc_version": "1.7.x",
-  "mod_authors": ["jaquadro"],
-  "url_website": "https://minecraft.curseforge.com/projects/storage-drawers-biomes-o-plenty-pack",
-  "description": "Adds additional wooden drawer styles from Biomes O' Plenty mod."
+    "mod_id": "storagedrawersbiomesoplenty",
+    "mod_name": "Storage Drawers: BiomesOPlenty Pack",
+    "mod_filename": "StorageDrawers-BiomesOPlenty-1.7.10-1.1.1.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Texelsaur"
+    ],
+    "url_website": "http://www.jaquadro.com/",
+    "description": "Wood style addons for Storage Drawers using the Biomes O' Plenty mod",
+    "mod_version": "1.7.10-1.1.1",
+    "mod_dir": "/Storage_Drawers_BiomesOPlenty/"
 }

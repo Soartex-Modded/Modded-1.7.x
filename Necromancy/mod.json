@@ -1,10 +1,16 @@
 {
-  "mod_id": "necromancy",
-  "mod_name": "Necromancy",
-  "mod_dir": "/Necromancy/",
-  "mod_version": "v1.7.1",
-  "mc_version": "1.7.10",
-  "mod_authors": ["AtomicStryker", "sirolf2009", "Mr_boness", "Fabiulu", "TheBlackPixel"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294080-1-7-10-necromancy-sew-your-own-unholy-minions",
-  "description": "This mod is all about Necromancy, also known as the art of reanimation. Create your own Minions and infuse them with life!"
+    "mod_id": "necromancy",
+    "mod_name": "Necromancy",
+    "mod_dir": "/Necromancy/",
+    "mod_version": "v1.7.1",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "AtomicStryker",
+        "sirolf2009",
+        "Mr_boness",
+        "Fabiulu",
+        "TheBlackPixel"
+    ],
+    "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294080-1-7-10-necromancy-sew-your-own-unholy-minions",
+    "description": "This mod is all about Necromancy, also known as the art of reanimation. Create your own Minions and infuse them with life!"
 }

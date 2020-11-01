@@ -1,10 +1,12 @@
 {
-  "mod_id": "TwilightForest",
-  "mod_name": "The Twilight Forest",
-  "mod_dir": "/Twilight_Forest/",
-  "mod_version": "v2.3.2",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Benimatic"],
-  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258",
-  "description": "An enchanted forest dimension."
+    "mod_name": "The Twilight Forest",
+    "mod_id": "twilightforest",
+    "mod_version": "2.3.7",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Benimatic (Ben Mazur)"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/561673-",
+    "description": "An enchanted forest dimension.",
+    "mod_dir": "/Twilight_Forest/"
 }

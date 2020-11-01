@@ -1,10 +1,12 @@
 {
-  "mod_id": "ImmibisMicroblocks",
-  "mod_name": "Immibis Microblocks",
-  "mod_dir": "/Microblocks/",
-  "mod_version": "v59.0.4",
-  "mc_version": "1.7.10",
-  "mod_authors": ["immibis"],
-  "url_website": "http://www.minecraftforum.net/topic/1001131-110-immibiss-mods-smp/",
-  "description": ""
+    "mod_id": "immibismicroblocks",
+    "mod_name": "Immibis Microblocks",
+    "mod_dir": "/Microblocks/",
+    "mod_version": "v59.0.4",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "immibis"
+    ],
+    "url_website": "http://www.minecraftforum.net/topic/1001131-110-immibiss-mods-smp/",
+    "description": ""
 }

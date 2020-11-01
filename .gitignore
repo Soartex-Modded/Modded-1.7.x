@@ -33,6 +33,10 @@ Icon
 # Artifacts left by other applications
 # SyncToy
 SyncToy*
+.idea/
 
 # Custom split-zip pack.mcmeta
 pack.mcmeta
+
+# placeholder textures
+__default_*

@@ -1,10 +1,12 @@
 {
-  "mod_id": "IronTank",
-  "mod_name": "Iron Tank",
-  "mod_dir": "/Iron_Tank/",
-  "mod_version": "1.1.17",
-  "mc_version": "1.7.10",
-  "mod_authors": ["Indemnity83"],
-  "url_website": "https://github.com/indemnity83/irontank",
-  "description": "New tanks with larger sizes, with in-place upgrade items."
+    "mod_id": "irontank",
+    "mod_name": "Iron Tank",
+    "mod_dir": "/Iron_Tank/",
+    "mod_version": "1.1.17",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "Indemnity83"
+    ],
+    "url_website": "https://github.com/indemnity83/irontank",
+    "description": "New tanks with larger sizes, with in-place upgrade items."
 }
