@@ -2,20 +2,15 @@
 
 ### Created by everyone for everyone!
 
-This repository is for modded texture version control and submission. All changes here are automatically packaged
-with scripts and made available in the patcher and on the downloads page!
+This repository is for modded texture version control, and for submitting your own textures or ports. 
+All changes here are automatically packaged with scripts and made available on the [Curseforge project page](https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded).
 
-- [Forums](http://soartex.net/community/)
-- [Downloads](http://soartex.net/downloads/)
-- [License](http://soartex.net/license/#fanver)
-
-[![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.7.x/badge/pr?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.7.x)
-[![Issue Stats](http://issuestats.com/github/soartex-modded/modded-1.7.x/badge/issue?style=flat)](http://issuestats.com/github/soartex-modded/modded-1.7.x)
+There is also a [Discord for people interested in developing on Soartex](https://discord.gg/HyHyungTya). 
 
 ### Goals
 * Relaxed, fun, community learning and texturing environment
-* Support for mod packs in the FTB, Technic and ATLauncher platforms
-* Support for [requested mods](http://soartex.net/community/threads/mod-requests.859/)
+* Support for your favorite mods and mod packs
+* Support for requested mods. Open an issue if you have a request.
 _We welcome support for any mod!_
 
 ### Guidelines
@@ -23,22 +18,28 @@ _We welcome support for any mod!_
 * Feel free to use any texture in the repository or vanilla Soartex, but do not claim them as your own
 * Mod names should be capitalized, separated by underscores and should not be abbreviated
 * If there is a breaking texture change to the legacy versions of the mod, open an issue
-* A number of [texture templates, psd and xcf files, scripts and guides](https://github.com/Soartex-Modded/Templates) are available.
 
-### How to submit your own textures:
+### Tools
+* A number of [texture templates, psd and xcf files, scripts and guides](https://github.com/Soartex-Modded/Templates) are available.
+* There is a ["Resource Wrangler" python package](https://github.com/Soartex-Modded/Resource-Wrangler) for developing on patches and merging patches into a resource pack.
+
+### How to submit your own textures
 
 _This requires moderate git/Github knowledge; if you need any help, feel free to contact us._
 
 * Fork this repository to your account.
 * Commit all of your textures to your forked repository.
+* Please add a `mod.json` when creating a new patch. 
 * Open a pull request from your repository to this one with a concise explanation of your changes.
-* Wait for either artdude543, Shoeboxam or Goldbattle to review your request before merging.
-* When your pull request has been merged, delete your fork to ensure current pull requests in the future.
-* Please add a `mod.json` when adding a new mod folder, tutorial is located [here](http://wiki.soartex.net/modded/01-01-2015/making-a-mod-json/)
-* A good tutorial on how to contribute is located [here](http://wiki.soartex.net/modded/01-02-2015/contributing-to-the-modded-repos/)
-
-[Don't want to go through Github?](http://soartex.net/community/threads/mod-contributions-texture-submissions.888/)
+* Respond to comments made by reviewers.
+* Once your pull request has been merged, delete your fork to ensure current pull requests in the future.
+* Look for an invitation to join the Soartex Github organization. Members of the organization can create branches and pull requests without forking. 
+ 
+Don't want to go through git? 
+Open an issue with your patch in a .zip file. 
+It will take longer to review these contributions, because git makes this so easy for maintainers- 
+but don't feel like a lack of knowledge in git is a barrier to you.
 
 ### License
-* All files added to this repository are automatically covered by the main packs [license](http://soartex.net/license/#fanver) to protect the work submitted by the community.
-* Please obey by the licenses as this helps to protect the community's hard work.
+All repository contents are covered by the main pack's [license](http://soartex.net/license/#fanver). 
+Please respect the community's hard work by adhering to the license.
