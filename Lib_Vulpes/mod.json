@@ -1,0 +1,13 @@
+{
+    "mod_id": "LibVulpes",
+    "mod_name": "LibVulpes",
+    "mod_filename": "LibVulpes-1.7.10-0.2.8-37-universal.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "zmaster587"
+    ],
+    "url_website": "http://minecraft.curseforge.com/projects/libvulpes",
+    "description": "Common Library required for my mods",
+    "mod_version": "1.7.10-0.2.8-37",
+    "mod_dir": "/Lib_Vulpes/"
+}

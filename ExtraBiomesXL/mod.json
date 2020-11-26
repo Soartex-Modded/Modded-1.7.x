@@ -1,14 +1,14 @@
 {
-    "mod_id": "extrabiomesxl",
     "mod_name": "Extra Biomes XL",
+    "mod_id": "extrabiomesxl",
+    "mod_version": "1.7.10-3.16.RC3",
+    "url_website": "http://www.minecraftforum.net/topic/1090288-",
+    "description": "ExtrabiomesXL adds new aesthetic content that greatly enhances Minecraft's landscapes and exploration.",
     "mod_filename": "ExtrabiomesXL-universal-1.7.10-3.16.RC3.jar",
     "mc_version": "1.7.10",
     "mod_authors": [
         "annysia63",
         "Allaryin"
     ],
-    "url_website": "http://www.minecraftforum.net/topic/1090288-",
-    "description": "ExtrabiomesXL is a mod for Minecraft which adds new biomes that enhance game play and make exploring fun and interesting.",
-    "mod_version": "1.7.10-3.16.RC3",
     "mod_dir": "/ExtraBiomesXL/"
 }

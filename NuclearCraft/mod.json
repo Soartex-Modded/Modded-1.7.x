@@ -1,0 +1,9 @@
+{
+    "mod_name": "NuclearCraft",
+    "mod_id": "NuclearCraft",
+    "mod_version": "0.0.0.9a",
+    "mc_version": "1.7.10",
+    "mod_authors": "turbodiesel4598",
+    "description": "Advanced nuclear physics, and more to come!",
+    "mod_dir": "/NuclearCraft/"
+}

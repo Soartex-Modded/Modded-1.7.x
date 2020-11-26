@@ -1,0 +1,13 @@
+{
+    "mod_id": "deep-resonance",
+    "mod_name": "Deep Resonance",
+    "mod_filename": "deepresonance-1.1.4.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "McJty"
+    ],
+    "url_website": "",
+    "description": "Deep Resonance is a power generation mod for Minecraft",
+    "mod_version": "1.1.4",
+    "mod_dir": "/Deep_Resonance/"
+}

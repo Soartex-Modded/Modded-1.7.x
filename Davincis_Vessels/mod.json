@@ -1,0 +1,12 @@
+{
+    "mod_filename": "archimedesshipsplus-1.7.10-1.8.1.jar",
+    "mod_id": "davincis-vessels",
+    "mod_name": "Davincis Vessels",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "darkevilmac"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/davincis-vessels",
+    "description": "(Formerly Archimedes Ships Plus) Sail a boat, Fly in the skies, or Plunder the depths of the oceans.",
+    "mod_dir": "/Davincis_Vessels/"
+}

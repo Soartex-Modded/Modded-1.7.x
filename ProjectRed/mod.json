@@ -1,0 +1,14 @@
+{
+    "mod_id": "projectred",
+    "mod_name": "ProjectRed",
+    "mod_filename": "ProjectRed-1.12.2-4.9.4.120-integration.jar",
+    "mc_version": "1.7.10",
+    "mod_authors": [
+        "MrTJP",
+        "covers1624"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical",
+    "description": "Redstone enthusiasts' one-stop-shop. Expansion and Transportation modules for Project Red.",
+    "mod_version": "4.7.0pre12.95",
+    "mod_dir": "/ProjectRed/"
+}

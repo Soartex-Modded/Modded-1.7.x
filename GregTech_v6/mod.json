@@ -1,14 +1,14 @@
 {
     "mod_name": "GregTech v6",
     "mod_id": "gregtech",
-    "mod_version": "1.7.03.01",
+    "mod_version": "5.09",
     "mc_version": "1.7.10",
-    "url_website": "https://github.com/draknyte1/GTplusplus/wiki",
-    "description": "Adds over 100 new Multiblocks, Machines, etc to Gregtech.",
     "mod_authors": [
         "Gregorius Techneticies",
         "Blood Asp"
     ],
+    "url_website": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=11488",
+    "description": "This Mod adds the awesome Technology of GregTech-Intergalactical to your World!",
     "mod_filename": "bartworks1.7.10-0.5.13_pre2.jar",
     "mod_dir": "/GregTech_v6/"
 }
