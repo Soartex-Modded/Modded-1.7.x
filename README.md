@@ -5,6 +5,8 @@
 This repository is for modded texture version control, and for submitting your own textures or ports. 
 All changes here are automatically packaged with scripts and made available on the [Curseforge project page](https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded).
 
+[1.7.x Universal Download](https://www.curseforge.com/minecraft/texture-packs/soartex-fanver-modded/files/all?filter-status=1&filter-game-version=1738749986%3A5)
+
 There is also a [Discord for people interested in developing on Soartex](https://discord.gg/HyHyungTya). 
 
 ### Goals
